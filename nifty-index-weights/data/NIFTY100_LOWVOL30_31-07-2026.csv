@@ -1,0 +1,31 @@
+sector,sector_weight,symbol,weight,as_of_date
+Healthcare,16.68,APOLLOHOSP,3.66,31-07-2026
+Healthcare,16.68,CIPLA,3.4,31-07-2026
+Healthcare,16.68,DRREDDY,2.59,31-07-2026
+Healthcare,16.68,SUNPHARMA,3.75,31-07-2026
+Healthcare,16.68,TORNTPHARM,3.28,31-07-2026
+Consumer Durables,6.37,ASIANPAINT,2.99,31-07-2026
+Consumer Durables,6.37,TITAN,3.38,31-07-2026
+Automobile and Auto Components,6.91,BAJAJ-AUTO,3.71,31-07-2026
+Automobile and Auto Components,6.91,MARUTI,3.2,31-07-2026
+Financial Services,20.85,BAJAJFINSV,3.54,31-07-2026
+Financial Services,20.85,HDFCBANK,3.38,31-07-2026
+Financial Services,20.85,ICICIBANK,3.98,31-07-2026
+Financial Services,20.85,KOTAKBANK,3.12,31-07-2026
+Financial Services,20.85,SBILIFE,3.78,31-07-2026
+Financial Services,20.85,SBIN,3.05,31-07-2026
+Telecommunication,3.71,BHARTIARTL,3.71,31-07-2026
+Fast Moving Consumer Goods,14.0,BRITANNIA,3.48,31-07-2026
+Fast Moving Consumer Goods,14.0,HINDUNILVR,3.4,31-07-2026
+Fast Moving Consumer Goods,14.0,ITC,3.41,31-07-2026
+Fast Moving Consumer Goods,14.0,NESTLEIND,3.71,31-07-2026
+Information Technology,12.81,HCLTECH,3.3,31-07-2026
+Information Technology,12.81,INFY,2.88,31-07-2026
+Information Technology,12.81,TCS,3.53,31-07-2026
+Information Technology,12.81,WIPRO,3.1,31-07-2026
+Construction,2.63,LT,2.63,31-07-2026
+Power,3.67,NTPC,3.67,31-07-2026
+Chemicals,2.95,PIDILITIND,2.95,31-07-2026
+Oil Gas & Consumable Fuels,3.34,RELIANCE,3.34,31-07-2026
+Construction Materials,6.08,SHREECEM,2.89,31-07-2026
+Construction Materials,6.08,ULTRACEMCO,3.19,31-07-2026

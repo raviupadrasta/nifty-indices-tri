@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Diversified,0.26,3MINDIA,0.26,31-07-2026
+Financial Services,28.64,ABCAPITAL,1.69,31-07-2026
+Financial Services,28.64,AUBANK,2.68,31-07-2026
+Financial Services,28.64,BANKINDIA,0.46,31-07-2026
+Financial Services,28.64,BSE,4.67,31-07-2026
+Financial Services,28.64,FEDERALBNK,5.02,31-07-2026
+Financial Services,28.64,INDIANB,1.08,31-07-2026
+Financial Services,28.64,INDUSINDBK,2.32,31-07-2026
+Financial Services,28.64,LTF,1.23,31-07-2026
+Financial Services,28.64,MAHABANK,1.01,31-07-2026
+Financial Services,28.64,MCX,4.72,31-07-2026
+Financial Services,28.64,MFSL,1.17,31-07-2026
+Financial Services,28.64,NAM-INDIA,1.13,31-07-2026
+Financial Services,28.64,PAYTM,1.45,31-07-2026
+Capital Goods,23.76,AIAENG,0.87,31-07-2026
+Capital Goods,23.76,APARINDS,1.52,31-07-2026
+Capital Goods,23.76,APLAPOLLO,1.0,31-07-2026
+Capital Goods,23.76,ASHOKLEY,1.69,31-07-2026
+Capital Goods,23.76,BHEL,4.22,31-07-2026
+Capital Goods,23.76,GVT&D,4.26,31-07-2026
+Capital Goods,23.76,KEI,1.89,31-07-2026
+Capital Goods,23.76,POLYCAB,3.32,31-07-2026
+Capital Goods,23.76,POWERINDIA,3.58,31-07-2026
+Capital Goods,23.76,THERMAX,1.41,31-07-2026
+Healthcare,16.87,AJANTPHARM,0.64,31-07-2026
+Healthcare,16.87,AUROPHARMA,2.15,31-07-2026
+Healthcare,16.87,BIOCON,1.33,31-07-2026
+Healthcare,16.87,FORTIS,2.01,31-07-2026
+Healthcare,16.87,GLENMARK,1.98,31-07-2026
+Healthcare,16.87,LAURUSLABS,6.22,31-07-2026
+Healthcare,16.87,LUPIN,2.53,31-07-2026
+Oil Gas & Consumable Fuels,1.72,ATGL,0.72,31-07-2026
+Oil Gas & Consumable Fuels,1.72,OIL,0.99,31-07-2026
+Automobile and Auto Components,4.31,BHARATFORG,4.31,31-07-2026
+Services,1.06,GMRAIRPORT,1.06,31-07-2026
+Telecommunication,5.12,IDEA,2.4,31-07-2026
+Telecommunication,5.12,INDUSTOWER,1.97,31-07-2026
+Telecommunication,5.12,TATACOMM,0.75,31-07-2026
+Metals & Mining,8.57,JSL,0.5,31-07-2026
+Metals & Mining,8.57,LLOYDSME,1.61,31-07-2026
+Metals & Mining,8.57,NATIONALUM,3.19,31-07-2026
+Metals & Mining,8.57,NMDC,1.43,31-07-2026
+Metals & Mining,8.57,SAIL,1.85,31-07-2026
+Power,2.33,JSWENERGY,1.63,31-07-2026
+Power,2.33,NLCINDIA,0.69,31-07-2026
+Chemicals,0.54,LINDEINDIA,0.54,31-07-2026
+Fast Moving Consumer Goods,3.93,MARICO,2.38,31-07-2026
+Fast Moving Consumer Goods,3.93,RADICO,1.55,31-07-2026
+Consumer Services,1.66,NYKAA,1.66,31-07-2026
+Information Technology,1.24,OFSS,1.24,31-07-2026

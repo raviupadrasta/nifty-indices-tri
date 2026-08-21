@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Metals & Mining,7.82,ADANIENT,1.91,31-07-2026
+Metals & Mining,7.82,HINDALCO,1.95,31-07-2026
+Metals & Mining,7.82,JSWSTEEL,2.01,31-07-2026
+Metals & Mining,7.82,TATASTEEL,1.95,31-07-2026
+Services,3.76,ADANIPORTS,1.83,31-07-2026
+Services,3.76,INDIGO,1.94,31-07-2026
+Healthcare,9.78,APOLLOHOSP,2.04,31-07-2026
+Healthcare,9.78,CIPLA,2.0,31-07-2026
+Healthcare,9.78,DRREDDY,1.69,31-07-2026
+Healthcare,9.78,MAXHEALTH,1.98,31-07-2026
+Healthcare,9.78,SUNPHARMA,2.07,31-07-2026
+Consumer Durables,4.21,ASIANPAINT,2.01,31-07-2026
+Consumer Durables,4.21,TITAN,2.2,31-07-2026
+Financial Services,21.88,AXISBANK,1.73,31-07-2026
+Financial Services,21.88,BAJAJFINSV,2.22,31-07-2026
+Financial Services,21.88,BAJFINANCE,2.25,31-07-2026
+Financial Services,21.88,HDFCBANK,1.84,31-07-2026
+Financial Services,21.88,HDFCLIFE,1.81,31-07-2026
+Financial Services,21.88,ICICIBANK,2.04,31-07-2026
+Financial Services,21.88,JIOFIN,2.09,31-07-2026
+Financial Services,21.88,KOTAKBANK,1.88,31-07-2026
+Financial Services,21.88,SBILIFE,2.08,31-07-2026
+Financial Services,21.88,SBIN,1.94,31-07-2026
+Financial Services,21.88,SHRIRAMFIN,2.0,31-07-2026
+Automobile and Auto Components,10.48,BAJAJ-AUTO,2.31,31-07-2026
+Automobile and Auto Components,10.48,EICHERMOT,2.02,31-07-2026
+Automobile and Auto Components,10.48,M&M,2.16,31-07-2026
+Automobile and Auto Components,10.48,MARUTI,2.1,31-07-2026
+Automobile and Auto Components,10.48,TMPV,1.9,31-07-2026
+Capital Goods,1.83,BEL,1.83,31-07-2026
+Telecommunication,2.05,BHARTIARTL,2.05,31-07-2026
+Oil Gas & Consumable Fuels,5.74,COALINDIA,1.83,31-07-2026
+Oil Gas & Consumable Fuels,5.74,ONGC,1.97,31-07-2026
+Oil Gas & Consumable Fuels,5.74,RELIANCE,1.94,31-07-2026
+Consumer Services,4.11,ETERNAL,2.3,31-07-2026
+Consumer Services,4.11,TRENT,1.81,31-07-2026
+Construction Materials,3.97,GRASIM,1.93,31-07-2026
+Construction Materials,3.97,ULTRACEMCO,2.03,31-07-2026
+Information Technology,10.89,HCLTECH,2.36,31-07-2026
+Information Technology,10.89,INFY,2.09,31-07-2026
+Information Technology,10.89,TCS,2.19,31-07-2026
+Information Technology,10.89,TECHM,2.2,31-07-2026
+Information Technology,10.89,WIPRO,2.05,31-07-2026
+Fast Moving Consumer Goods,7.84,HINDUNILVR,1.9,31-07-2026
+Fast Moving Consumer Goods,7.84,ITC,1.89,31-07-2026
+Fast Moving Consumer Goods,7.84,NESTLEIND,2.13,31-07-2026
+Fast Moving Consumer Goods,7.84,TATACONSUM,1.92,31-07-2026
+Construction,1.84,LT,1.84,31-07-2026
+Power,3.8,NTPC,1.9,31-07-2026
+Power,3.8,POWERGRID,1.91,31-07-2026

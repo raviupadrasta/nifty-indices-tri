@@ -1,0 +1,76 @@
+sector,sector_weight,symbol,weight,as_of_date
+Chemicals,6.74,AARTIIND,0.42,31-07-2026
+Chemicals,6.74,ATUL,0.45,31-07-2026
+Chemicals,6.74,CHAMBLFERT,0.27,31-07-2026
+Chemicals,6.74,DEEPAKNTR,0.48,31-07-2026
+Chemicals,6.74,HSCL,0.74,31-07-2026
+Chemicals,6.74,NAVINFLUOR,1.16,31-07-2026
+Chemicals,6.74,PIIND,0.66,31-07-2026
+Chemicals,6.74,SRF,1.12,31-07-2026
+Chemicals,6.74,TATACHEM,0.44,31-07-2026
+Chemicals,6.74,UPL,1.0,31-07-2026
+Healthcare,22.4,ALKEM,0.99,31-07-2026
+Healthcare,22.4,AUROPHARMA,1.29,31-07-2026
+Healthcare,22.4,CIPLA,1.76,31-07-2026
+Healthcare,22.4,COHANCE,0.29,31-07-2026
+Healthcare,22.4,DIVISLAB,2.17,31-07-2026
+Healthcare,22.4,DRREDDY,1.49,31-07-2026
+Healthcare,22.4,GLAND,0.83,31-07-2026
+Healthcare,22.4,GLENMARK,0.99,31-07-2026
+Healthcare,22.4,GRANULES,0.5,31-07-2026
+Healthcare,22.4,LAURUSLABS,2.08,31-07-2026
+Healthcare,22.4,LUPIN,1.73,31-07-2026
+Healthcare,22.4,MANKIND,0.82,31-07-2026
+Healthcare,22.4,NATCOPHARM,0.34,31-07-2026
+Healthcare,22.4,NEULANDLAB,0.69,31-07-2026
+Healthcare,22.4,PPLPHARMA,0.51,31-07-2026
+Healthcare,22.4,SAILIFE,0.76,31-07-2026
+Healthcare,22.4,SUNPHARMA,4.48,31-07-2026
+Healthcare,22.4,WOCKPHARMA,0.68,31-07-2026
+Consumer Durables,6.01,AMBER,0.68,31-07-2026
+Consumer Durables,6.01,CROMPTON,0.7,31-07-2026
+Consumer Durables,6.01,DIXON,1.72,31-07-2026
+Consumer Durables,6.01,HAVELLS,0.94,31-07-2026
+Consumer Durables,6.01,KAJARIACER,0.41,31-07-2026
+Consumer Durables,6.01,PGEL,0.41,31-07-2026
+Consumer Durables,6.01,VOLTAS,0.89,31-07-2026
+Consumer Durables,6.01,WHIRLPOOL,0.26,31-07-2026
+Capital Goods,16.49,APLAPOLLO,0.98,31-07-2026
+Capital Goods,16.49,ASHOKLEY,1.4,31-07-2026
+Capital Goods,16.49,ASTRAL,0.52,31-07-2026
+Capital Goods,16.49,BEL,2.95,31-07-2026
+Capital Goods,16.49,BHEL,1.75,31-07-2026
+Capital Goods,16.49,CARBORUNIV,0.51,31-07-2026
+Capital Goods,16.49,ELGIEQUIP,0.51,31-07-2026
+Capital Goods,16.49,HAL,1.87,31-07-2026
+Capital Goods,16.49,INOXWIND,0.31,31-07-2026
+Capital Goods,16.49,KAYNES,0.5,31-07-2026
+Capital Goods,16.49,POLYCAB,1.43,31-07-2026
+Capital Goods,16.49,SUPREMEIND,0.66,31-07-2026
+Capital Goods,16.49,SUZLON,1.72,31-07-2026
+Capital Goods,16.49,TIMKEN,0.47,31-07-2026
+Capital Goods,16.49,WELCORP,0.9,31-07-2026
+Automobile and Auto Components,26.77,ARE&M,0.47,31-07-2026
+Automobile and Auto Components,26.77,ASAHIINDIA,0.44,31-07-2026
+Automobile and Auto Components,26.77,ATHERENERG,1.01,31-07-2026
+Automobile and Auto Components,26.77,BAJAJ-AUTO,2.71,31-07-2026
+Automobile and Auto Components,26.77,BHARATFORG,1.73,31-07-2026
+Automobile and Auto Components,26.77,EICHERMOT,2.29,31-07-2026
+Automobile and Auto Components,26.77,EXIDEIND,0.6,31-07-2026
+Automobile and Auto Components,26.77,FORCEMOT,0.36,31-07-2026
+Automobile and Auto Components,26.77,HEROMOTOCO,2.06,31-07-2026
+Automobile and Auto Components,26.77,M&M,6.44,31-07-2026
+Automobile and Auto Components,26.77,MARUTI,3.94,31-07-2026
+Automobile and Auto Components,26.77,MSUMI,0.43,31-07-2026
+Automobile and Auto Components,26.77,SONACOMS,1.44,31-07-2026
+Automobile and Auto Components,26.77,TIINDIA,0.87,31-07-2026
+Automobile and Auto Components,26.77,TMPV,1.51,31-07-2026
+Automobile and Auto Components,26.77,ZFCVINDIA,0.46,31-07-2026
+Oil Gas & Consumable Fuels,11.32,CASTROLIND,0.37,31-07-2026
+Oil Gas & Consumable Fuels,11.32,HINDPETRO,1.1,31-07-2026
+Oil Gas & Consumable Fuels,11.32,RELIANCE,9.85,31-07-2026
+Metals & Mining,9.53,HINDALCO,3.0,31-07-2026
+Metals & Mining,9.53,HINDCOPPER,0.67,31-07-2026
+Metals & Mining,9.53,JSWSTEEL,2.53,31-07-2026
+Metals & Mining,9.53,TATASTEEL,3.33,31-07-2026
+Textiles,0.75,PAGEIND,0.75,31-07-2026

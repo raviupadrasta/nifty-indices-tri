@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,33.86,ABCAPITAL,2.29,31-07-2026
+Financial Services,33.86,ANANDRATHI,2.52,31-07-2026
+Financial Services,33.86,AUBANK,1.52,31-07-2026
+Financial Services,33.86,BANKINDIA,0.86,31-07-2026
+Financial Services,33.86,BSE,1.95,31-07-2026
+Financial Services,33.86,CANBK,0.78,31-07-2026
+Financial Services,33.86,FEDERALBNK,1.66,31-07-2026
+Financial Services,33.86,HDFCAMC,0.78,31-07-2026
+Financial Services,33.86,IIFL,0.76,31-07-2026
+Financial Services,33.86,INDIANB,1.44,31-07-2026
+Financial Services,33.86,KARURVYSYA,2.29,31-07-2026
+Financial Services,33.86,LTF,2.46,31-07-2026
+Financial Services,33.86,MANAPPURAM,1.69,31-07-2026
+Financial Services,33.86,MCX,3.21,31-07-2026
+Financial Services,33.86,MFSL,0.51,31-07-2026
+Financial Services,33.86,MUTHOOTFIN,1.83,31-07-2026
+Financial Services,33.86,PAYTM,1.52,31-07-2026
+Financial Services,33.86,RBLBANK,2.04,31-07-2026
+Financial Services,33.86,SBIN,0.86,31-07-2026
+Financial Services,33.86,SHRIRAMFIN,2.03,31-07-2026
+Financial Services,33.86,UNIONBANK,0.86,31-07-2026
+Healthcare,10.73,ACUTAAS,3.71,31-07-2026
+Healthcare,10.73,FORTIS,1.15,31-07-2026
+Healthcare,10.73,GLENMARK,1.84,31-07-2026
+Healthcare,10.73,LAURUSLABS,4.03,31-07-2026
+Power,5.77,ADANIENSOL,2.77,31-07-2026
+Power,5.77,ADANIPOWER,3.01,31-07-2026
+Consumer Durables,0.87,AMBER,0.87,31-07-2026
+Capital Goods,15.23,APARINDS,1.83,31-07-2026
+Capital Goods,15.23,ASHOKLEY,1.59,31-07-2026
+Capital Goods,15.23,BHEL,2.11,31-07-2026
+Capital Goods,15.23,CUMMINSIND,2.39,31-07-2026
+Capital Goods,15.23,GVT&D,2.84,31-07-2026
+Capital Goods,15.23,POLYCAB,1.89,31-07-2026
+Capital Goods,15.23,POWERINDIA,2.59,31-07-2026
+Automobile and Auto Components,10.35,ATHERENERG,5.55,31-07-2026
+Automobile and Auto Components,10.35,BHARATFORG,2.13,31-07-2026
+Automobile and Auto Components,10.35,EICHERMOT,1.44,31-07-2026
+Automobile and Auto Components,10.35,TVSMOTOR,1.24,31-07-2026
+Services,1.06,DELHIVERY,1.06,31-07-2026
+Metals & Mining,13.9,HINDALCO,2.34,31-07-2026
+Metals & Mining,13.9,HINDCOPPER,3.33,31-07-2026
+Metals & Mining,13.9,NATIONALUM,3.38,31-07-2026
+Metals & Mining,13.9,SAIL,1.92,31-07-2026
+Metals & Mining,13.9,VEDL,2.93,31-07-2026
+Telecommunication,2.76,IDEA,2.76,31-07-2026
+Chemicals,2.71,NAVINFLUOR,2.04,31-07-2026
+Chemicals,2.71,SOLARINDS,0.67,31-07-2026
+Consumer Services,1.26,NYKAA,1.26,31-07-2026
+Fast Moving Consumer Goods,1.48,RADICO,1.48,31-07-2026

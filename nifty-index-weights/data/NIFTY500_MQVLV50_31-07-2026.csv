@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,24.43,ABSLAMC,1.19,31-07-2026
+Financial Services,24.43,ANANDRATHI,2.58,31-07-2026
+Financial Services,24.43,BANKBARODA,2.08,31-07-2026
+Financial Services,24.43,CAMS,1.81,31-07-2026
+Financial Services,24.43,CANBK,2.05,31-07-2026
+Financial Services,24.43,HDFCAMC,1.48,31-07-2026
+Financial Services,24.43,IEX,1.49,31-07-2026
+Financial Services,24.43,LICHSGFIN,2.23,31-07-2026
+Financial Services,24.43,PFC,2.7,31-07-2026
+Financial Services,24.43,RECLTD,2.47,31-07-2026
+Financial Services,24.43,SBIN,2.37,31-07-2026
+Financial Services,24.43,UNIONBANK,2.0,31-07-2026
+Construction Materials,1.31,ACC,1.31,31-07-2026
+Healthcare,14.26,ASTERDM,2.55,31-07-2026
+Healthcare,14.26,CIPLA,2.04,31-07-2026
+Healthcare,14.26,LUPIN,2.37,31-07-2026
+Healthcare,14.26,SUNPHARMA,2.39,31-07-2026
+Healthcare,14.26,TORNTPHARM,2.65,31-07-2026
+Healthcare,14.26,ZYDUSLIFE,2.26,31-07-2026
+Automobile and Auto Components,6.16,BAJAJ-AUTO,2.37,31-07-2026
+Automobile and Auto Components,6.16,MSUMI,1.44,31-07-2026
+Automobile and Auto Components,6.16,TMPV,2.36,31-07-2026
+Oil Gas & Consumable Fuels,16.44,BPCL,2.22,31-07-2026
+Oil Gas & Consumable Fuels,16.44,CASTROLIND,1.43,31-07-2026
+Oil Gas & Consumable Fuels,16.44,CHENNPETRO,0.98,31-07-2026
+Oil Gas & Consumable Fuels,16.44,COALINDIA,2.65,31-07-2026
+Oil Gas & Consumable Fuels,16.44,GAIL,2.26,31-07-2026
+Oil Gas & Consumable Fuels,16.44,HINDPETRO,1.94,31-07-2026
+Oil Gas & Consumable Fuels,16.44,IOC,2.33,31-07-2026
+Oil Gas & Consumable Fuels,16.44,ONGC,2.63,31-07-2026
+Fast Moving Consumer Goods,13.92,BRITANNIA,2.26,31-07-2026
+Fast Moving Consumer Goods,13.92,COLPAL,2.36,31-07-2026
+Fast Moving Consumer Goods,13.92,DABUR,1.66,31-07-2026
+Fast Moving Consumer Goods,13.92,EMAMILTD,1.26,31-07-2026
+Fast Moving Consumer Goods,13.92,GILLETTE,1.0,31-07-2026
+Fast Moving Consumer Goods,13.92,ITC,2.46,31-07-2026
+Fast Moving Consumer Goods,13.92,MARICO,2.92,31-07-2026
+Capital Goods,4.05,CUMMINSIND,2.16,31-07-2026
+Capital Goods,4.05,POLYCAB,1.89,31-07-2026
+Metals & Mining,3.74,HINDALCO,1.93,31-07-2026
+Metals & Mining,3.74,NATIONALUM,1.81,31-07-2026
+Consumer Services,2.88,INDIAMART,0.89,31-07-2026
+Consumer Services,2.88,IRCTC,1.99,31-07-2026
+Construction,1.26,IRB,1.26,31-07-2026
+Consumer Durables,0.82,JSWDULUX,0.82,31-07-2026
+Textiles,2.03,PAGEIND,2.03,31-07-2026
+Chemicals,2.25,PIDILITIND,2.25,31-07-2026
+Power,2.18,POWERGRID,2.18,31-07-2026
+Services,2.05,REDINGTON,2.05,31-07-2026
+Information Technology,2.22,TCS,2.22,31-07-2026

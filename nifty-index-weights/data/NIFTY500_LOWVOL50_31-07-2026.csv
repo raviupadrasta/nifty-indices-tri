@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Construction Materials,4.77,ACC,0.26,31-07-2026
+Construction Materials,4.77,AMBUJACEM,0.51,31-07-2026
+Construction Materials,4.77,ULTRACEMCO,4.01,31-07-2026
+Healthcare,21.88,APOLLOHOSP,3.53,31-07-2026
+Healthcare,21.88,CIPLA,2.66,31-07-2026
+Healthcare,21.88,DIVISLAB,3.09,31-07-2026
+Healthcare,21.88,DRREDDY,1.98,31-07-2026
+Healthcare,21.88,LUPIN,2.09,31-07-2026
+Healthcare,21.88,SUNPHARMA,4.98,31-07-2026
+Healthcare,21.88,TORNTPHARM,2.68,31-07-2026
+Healthcare,21.88,ZYDUSLIFE,0.87,31-07-2026
+Consumer Durables,3.97,ASIANPAINT,3.14,31-07-2026
+Consumer Durables,3.97,HAVELLS,0.83,31-07-2026
+Automobile and Auto Components,12.96,BAJAJ-AUTO,3.75,31-07-2026
+Automobile and Auto Components,12.96,EICHERMOT,2.09,31-07-2026
+Automobile and Auto Components,12.96,MARUTI,4.52,31-07-2026
+Automobile and Auto Components,12.96,MRF,0.64,31-07-2026
+Automobile and Auto Components,12.96,TVSMOTOR,1.96,31-07-2026
+Financial Services,13.16,BAJAJHFL,0.3,31-07-2026
+Financial Services,13.16,FEDERALBNK,2.15,31-07-2026
+Financial Services,13.16,HDFCLIFE,1.88,31-07-2026
+Financial Services,13.16,ICICIGI,1.26,31-07-2026
+Financial Services,13.16,ICICIPRULI,0.51,31-07-2026
+Financial Services,13.16,LICI,0.48,31-07-2026
+Financial Services,13.16,MFSL,0.87,31-07-2026
+Financial Services,13.16,SBICARD,0.41,31-07-2026
+Financial Services,13.16,SBIN,4.92,31-07-2026
+Financial Services,13.16,STARHEALTH,0.37,31-07-2026
+Telecommunication,4.95,BHARTIARTL,4.95,31-07-2026
+Fast Moving Consumer Goods,8.05,BRITANNIA,2.25,31-07-2026
+Fast Moving Consumer Goods,8.05,COLPAL,0.72,31-07-2026
+Fast Moving Consumer Goods,8.05,DABUR,0.7,31-07-2026
+Fast Moving Consumer Goods,8.05,GODREJCP,1.04,31-07-2026
+Fast Moving Consumer Goods,8.05,MARICO,2.14,31-07-2026
+Fast Moving Consumer Goods,8.05,UNITDSPR,1.21,31-07-2026
+Oil Gas & Consumable Fuels,6.91,CASTROLIND,0.47,31-07-2026
+Oil Gas & Consumable Fuels,6.91,COALINDIA,2.82,31-07-2026
+Oil Gas & Consumable Fuels,6.91,IOC,1.03,31-07-2026
+Oil Gas & Consumable Fuels,6.91,ONGC,2.59,31-07-2026
+Consumer Services,0.48,IRCTC,0.48,31-07-2026
+Power,11.51,NTPC,4.85,31-07-2026
+Power,11.51,POWERGRID,4.54,31-07-2026
+Power,11.51,TATAPOWER,2.12,31-07-2026
+Textiles,0.66,PAGEIND,0.66,31-07-2026
+Chemicals,2.16,PIDILITIND,1.74,31-07-2026
+Chemicals,2.16,PIIND,0.42,31-07-2026
+Information Technology,8.54,TATATECH,0.21,31-07-2026
+Information Technology,8.54,TCS,5.23,31-07-2026
+Information Technology,8.54,TECHM,1.98,31-07-2026
+Information Technology,8.54,WIPRO,1.13,31-07-2026

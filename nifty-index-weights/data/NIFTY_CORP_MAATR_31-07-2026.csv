@@ -1,0 +1,43 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,5.57,ABCAPITAL,1.44,31-07-2026
+Financial Services,5.57,ABSLAMC,0.32,31-07-2026
+Financial Services,5.57,JIOFIN,2.18,31-07-2026
+Financial Services,5.57,M&MFIN,1.1,31-07-2026
+Financial Services,5.57,TATACAP,0.36,31-07-2026
+Financial Services,5.57,TATAINVEST,0.17,31-07-2026
+Consumer Services,3.64,ABFRL,0.15,31-07-2026
+Consumer Services,3.64,ABLBL,0.24,31-07-2026
+Consumer Services,3.64,INDHOTEL,1.28,31-07-2026
+Consumer Services,3.64,TRENT,1.97,31-07-2026
+Realty,0.32,ABREL,0.32,31-07-2026
+Construction Materials,12.76,ACC,0.35,31-07-2026
+Construction Materials,12.76,AMBUJACEM,1.16,31-07-2026
+Construction Materials,12.76,GRASIM,5.05,31-07-2026
+Construction Materials,12.76,INDIACEM,0.12,31-07-2026
+Construction Materials,12.76,ULTRACEMCO,6.08,31-07-2026
+Power,9.36,ADANIENSOL,2.33,31-07-2026
+Power,9.36,ADANIGREEN,2.0,31-07-2026
+Power,9.36,ADANIPOWER,3.78,31-07-2026
+Power,9.36,TATAPOWER,1.25,31-07-2026
+Metals & Mining,12.92,ADANIENT,3.75,31-07-2026
+Metals & Mining,12.92,HINDALCO,6.09,31-07-2026
+Metals & Mining,12.92,TATASTEEL,3.09,31-07-2026
+Services,5.4,ADANIPORTS,5.4,31-07-2026
+Oil Gas & Consumable Fuels,15.41,ATGL,0.78,31-07-2026
+Oil Gas & Consumable Fuels,15.41,RELIANCE,14.63,31-07-2026
+Construction,0.33,CEMPRO,0.33,31-07-2026
+Telecommunication,2.07,IDEA,1.55,31-07-2026
+Telecommunication,2.07,TATACOMM,0.41,31-07-2026
+Telecommunication,2.07,TEJASNET,0.08,31-07-2026
+Telecommunication,2.07,TTML,0.04,31-07-2026
+Automobile and Auto Components,14.49,M&M,13.09,31-07-2026
+Automobile and Auto Components,14.49,TMPV,1.4,31-07-2026
+Chemicals,0.21,TATACHEM,0.21,31-07-2026
+Fast Moving Consumer Goods,1.39,TATACONSUM,1.39,31-07-2026
+Information Technology,9.78,TATAELXSI,0.25,31-07-2026
+Information Technology,9.78,TATATECH,0.25,31-07-2026
+Information Technology,9.78,TCS,4.75,31-07-2026
+Information Technology,9.78,TECHM,4.52,31-07-2026
+Consumer Durables,4.56,TITAN,3.96,31-07-2026
+Consumer Durables,4.56,VOLTAS,0.6,31-07-2026
+Capital Goods,1.8,TMCV,1.8,31-07-2026

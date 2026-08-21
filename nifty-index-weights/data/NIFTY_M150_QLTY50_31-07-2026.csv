@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,16.51,360ONE,1.85,31-07-2026
+Financial Services,16.51,BSE,4.65,31-07-2026
+Financial Services,16.51,CRISIL,1.4,31-07-2026
+Financial Services,16.51,INDIANB,1.7,31-07-2026
+Financial Services,16.51,MAHABANK,1.52,31-07-2026
+Financial Services,16.51,MOTILALOFS,1.24,31-07-2026
+Financial Services,16.51,NAM-INDIA,2.32,31-07-2026
+Financial Services,16.51,SUNDARMFIN,1.84,31-07-2026
+Diversified,1.27,3MINDIA,1.27,31-07-2026
+Healthcare,8.19,ABBOTINDIA,2.07,31-07-2026
+Healthcare,8.19,AJANTPHARM,1.67,31-07-2026
+Healthcare,8.19,ALKEM,2.17,31-07-2026
+Healthcare,8.19,GLAXO,2.28,31-07-2026
+Capital Goods,16.23,AIAENG,1.37,31-07-2026
+Capital Goods,16.23,APARINDS,1.55,31-07-2026
+Capital Goods,16.23,APLAPOLLO,1.8,31-07-2026
+Capital Goods,16.23,ASTRAL,1.37,31-07-2026
+Capital Goods,16.23,BDL,1.02,31-07-2026
+Capital Goods,16.23,HONAUT,0.96,31-07-2026
+Capital Goods,16.23,KEI,1.87,31-07-2026
+Capital Goods,16.23,POLYCAB,2.76,31-07-2026
+Capital Goods,16.23,POWERINDIA,1.94,31-07-2026
+Capital Goods,16.23,SUPREMEIND,1.58,31-07-2026
+Automobile and Auto Components,9.12,BALKRISIND,1.49,31-07-2026
+Automobile and Auto Components,9.12,ENDURANCE,1.02,31-07-2026
+Automobile and Auto Components,9.12,HEROMOTOCO,3.73,31-07-2026
+Automobile and Auto Components,9.12,SCHAEFFLER,1.53,31-07-2026
+Automobile and Auto Components,9.12,TIINDIA,1.35,31-07-2026
+Consumer Durables,10.06,BERGEPAINT,1.45,31-07-2026
+Consumer Durables,10.06,DIXON,4.55,31-07-2026
+Consumer Durables,10.06,HAVELLS,2.18,31-07-2026
+Consumer Durables,10.06,VOLTAS,1.89,31-07-2026
+Information Technology,14.02,COFORGE,2.23,31-07-2026
+Information Technology,14.02,KPITTECH,1.17,31-07-2026
+Information Technology,14.02,LTTS,1.25,31-07-2026
+Information Technology,14.02,MPHASIS,2.01,31-07-2026
+Information Technology,14.02,OFSS,2.44,31-07-2026
+Information Technology,14.02,PERSISTENT,3.37,31-07-2026
+Information Technology,14.02,TATAELXSI,1.54,31-07-2026
+Fast Moving Consumer Goods,11.33,COLPAL,4.71,31-07-2026
+Fast Moving Consumer Goods,11.33,DABUR,1.75,31-07-2026
+Fast Moving Consumer Goods,11.33,GODFRYPHLP,1.16,31-07-2026
+Fast Moving Consumer Goods,11.33,MARICO,3.72,31-07-2026
+Chemicals,3.55,COROMANDEL,1.81,31-07-2026
+Chemicals,3.55,PIIND,1.74,31-07-2026
+Consumer Services,1.76,IRCTC,1.76,31-07-2026
+Textiles,4.1,KPRMILL,1.1,31-07-2026
+Textiles,4.1,PAGEIND,3.0,31-07-2026
+Metals & Mining,2.12,NMDC,2.12,31-07-2026
+Oil Gas & Consumable Fuels,1.75,PETRONET,1.75,31-07-2026

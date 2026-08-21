@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Capital Goods,17.02,ABB,1.51,31-07-2026
+Capital Goods,17.02,CGPOWER,2.34,31-07-2026
+Capital Goods,17.02,CUMMINSIND,2.94,31-07-2026
+Capital Goods,17.02,ENRIN,1.13,31-07-2026
+Capital Goods,17.02,HAL,3.48,31-07-2026
+Capital Goods,17.02,MAZDOCK,0.71,31-07-2026
+Capital Goods,17.02,SIEMENS,1.31,31-07-2026
+Capital Goods,17.02,TMCV,3.6,31-07-2026
+Power,9.93,ADANIENSOL,2.13,31-07-2026
+Power,9.93,ADANIGREEN,1.83,31-07-2026
+Power,9.93,ADANIPOWER,3.46,31-07-2026
+Power,9.93,TATAPOWER,2.51,31-07-2026
+Construction Materials,2.44,AMBUJACEM,1.06,31-07-2026
+Construction Materials,2.44,SHREECEM,1.37,31-07-2026
+Financial Services,20.5,BAJAJHLDNG,1.94,31-07-2026
+Financial Services,20.5,BANKBARODA,1.78,31-07-2026
+Financial Services,20.5,CANBK,1.66,31-07-2026
+Financial Services,20.5,CHOLAFIN,3.16,31-07-2026
+Financial Services,20.5,HDFCAMC,2.1,31-07-2026
+Financial Services,20.5,IRFC,0.71,31-07-2026
+Financial Services,20.5,MUTHOOTFIN,1.32,31-07-2026
+Financial Services,20.5,PFC,2.44,31-07-2026
+Financial Services,20.5,PNB,1.53,31-07-2026
+Financial Services,20.5,RECLTD,1.84,31-07-2026
+Financial Services,20.5,TATACAP,0.73,31-07-2026
+Financial Services,20.5,UNIONBANK,1.31,31-07-2026
+Automobile and Auto Components,9.26,BOSCHLTD,1.41,31-07-2026
+Automobile and Auto Components,9.26,HYUNDAI,1.23,31-07-2026
+Automobile and Auto Components,9.26,MOTHERSON,2.63,31-07-2026
+Automobile and Auto Components,9.26,TVSMOTOR,4.0,31-07-2026
+Oil Gas & Consumable Fuels,6.55,BPCL,2.56,31-07-2026
+Oil Gas & Consumable Fuels,6.55,GAIL,1.93,31-07-2026
+Oil Gas & Consumable Fuels,6.55,IOC,2.07,31-07-2026
+Fast Moving Consumer Goods,8.37,BRITANNIA,2.52,31-07-2026
+Fast Moving Consumer Goods,8.37,GODREJCP,1.7,31-07-2026
+Fast Moving Consumer Goods,8.37,UNITDSPR,1.77,31-07-2026
+Fast Moving Consumer Goods,8.37,VBL,2.39,31-07-2026
+Healthcare,8.12,DIVISLAB,4.04,31-07-2026
+Healthcare,8.12,TORNTPHARM,2.97,31-07-2026
+Healthcare,8.12,ZYDUSLIFE,1.11,31-07-2026
+Realty,3.03,DLF,1.67,31-07-2026
+Realty,3.03,LODHA,1.36,31-07-2026
+Consumer Services,5.05,DMART,2.49,31-07-2026
+Consumer Services,5.05,INDHOTEL,2.56,31-07-2026
+Metals & Mining,4.4,HINDZINC,1.02,31-07-2026
+Metals & Mining,4.4,JINDALSTEL,1.61,31-07-2026
+Metals & Mining,4.4,VEDL,1.77,31-07-2026
+Information Technology,1.6,LTM,1.6,31-07-2026
+Chemicals,3.74,PIDILITIND,1.97,31-07-2026
+Chemicals,3.74,SOLARINDS,1.77,31-07-2026

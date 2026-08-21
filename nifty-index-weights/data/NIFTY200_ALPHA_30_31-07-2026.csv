@@ -1,0 +1,31 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,29.82,ABCAPITAL,3.53,31-07-2026
+Financial Services,29.82,AUBANK,2.24,31-07-2026
+Financial Services,29.82,BSE,2.97,31-07-2026
+Financial Services,29.82,FEDERALBNK,2.43,31-07-2026
+Financial Services,29.82,INDIANB,2.1,31-07-2026
+Financial Services,29.82,LTF,3.8,31-07-2026
+Financial Services,29.82,MCX,4.74,31-07-2026
+Financial Services,29.82,MUTHOOTFIN,2.76,31-07-2026
+Financial Services,29.82,PAYTM,2.16,31-07-2026
+Financial Services,29.82,SHRIRAMFIN,3.09,31-07-2026
+Power,11.47,ADANIENSOL,4.29,31-07-2026
+Power,11.47,ADANIGREEN,2.58,31-07-2026
+Power,11.47,ADANIPOWER,4.6,31-07-2026
+Capital Goods,20.43,ASHOKLEY,2.33,31-07-2026
+Capital Goods,20.43,BHEL,3.21,31-07-2026
+Capital Goods,20.43,CUMMINSIND,3.7,31-07-2026
+Capital Goods,20.43,GVT&D,4.28,31-07-2026
+Capital Goods,20.43,POLYCAB,2.87,31-07-2026
+Capital Goods,20.43,POWERINDIA,4.05,31-07-2026
+Automobile and Auto Components,5.34,BHARATFORG,3.25,31-07-2026
+Automobile and Auto Components,5.34,EICHERMOT,2.09,31-07-2026
+Healthcare,10.63,FORTIS,1.63,31-07-2026
+Healthcare,10.63,GLENMARK,2.76,31-07-2026
+Healthcare,10.63,LAURUSLABS,6.24,31-07-2026
+Metals & Mining,16.17,HINDALCO,3.62,31-07-2026
+Metals & Mining,16.17,NATIONALUM,5.02,31-07-2026
+Metals & Mining,16.17,SAIL,2.91,31-07-2026
+Metals & Mining,16.17,VEDL,4.62,31-07-2026
+Telecommunication,4.35,IDEA,4.35,31-07-2026
+Consumer Services,1.78,NYKAA,1.78,31-07-2026

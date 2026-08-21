@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Capital Goods,31.24,ABB,1.86,31-07-2026
+Capital Goods,31.24,APARINDS,1.2,31-07-2026
+Capital Goods,31.24,BHEL,3.34,31-07-2026
+Capital Goods,31.24,CGPOWER,2.87,31-07-2026
+Capital Goods,31.24,CUMMINSIND,4.98,31-07-2026
+Capital Goods,31.24,FINCABLES,0.37,31-07-2026
+Capital Goods,31.24,GVT&D,4.29,31-07-2026
+Capital Goods,31.24,KEI,1.49,31-07-2026
+Capital Goods,31.24,KIRLOSENG,1.37,31-07-2026
+Capital Goods,31.24,POLYCAB,2.63,31-07-2026
+Capital Goods,31.24,POWERINDIA,2.85,31-07-2026
+Capital Goods,31.24,RRKABEL,0.45,31-07-2026
+Capital Goods,31.24,SCHNEIDER,0.53,31-07-2026
+Capital Goods,31.24,SYRMA,0.61,31-07-2026
+Capital Goods,31.24,THERMAX,1.11,31-07-2026
+Capital Goods,31.24,WELCORP,1.3,31-07-2026
+Financial Services,24.05,ABCAPITAL,1.34,31-07-2026
+Financial Services,24.05,ABSLAMC,0.38,31-07-2026
+Financial Services,24.05,ANANDRATHI,1.14,31-07-2026
+Financial Services,24.05,BSE,4.7,31-07-2026
+Financial Services,24.05,FEDERALBNK,3.98,31-07-2026
+Financial Services,24.05,KARURVYSYA,1.41,31-07-2026
+Financial Services,24.05,MAHABANK,0.8,31-07-2026
+Financial Services,24.05,MCX,4.75,31-07-2026
+Financial Services,24.05,RBLBANK,0.41,31-07-2026
+Financial Services,24.05,SHRIRAMFIN,5.14,31-07-2026
+Healthcare,12.96,ACUTAAS,1.39,31-07-2026
+Healthcare,12.96,GLENMARK,1.57,31-07-2026
+Healthcare,12.96,GRANULES,0.66,31-07-2026
+Healthcare,12.96,LAURUSLABS,5.61,31-07-2026
+Healthcare,12.96,SAILIFE,0.88,31-07-2026
+Healthcare,12.96,TORNTPHARM,2.85,31-07-2026
+Power,8.42,ADANIENSOL,3.27,31-07-2026
+Power,8.42,ADANIPOWER,4.61,31-07-2026
+Power,8.42,NLCINDIA,0.55,31-07-2026
+Automobile and Auto Components,6.43,ATHERENERG,1.84,31-07-2026
+Automobile and Auto Components,6.43,BELRISE,0.46,31-07-2026
+Automobile and Auto Components,6.43,BHARATFORG,3.41,31-07-2026
+Automobile and Auto Components,6.43,CRAFTSMAN,0.71,31-07-2026
+Services,0.65,GESHIP,0.65,31-07-2026
+Metals & Mining,10.16,GMDCLTD,0.2,31-07-2026
+Metals & Mining,10.16,HINDALCO,5.0,31-07-2026
+Metals & Mining,10.16,HINDCOPPER,0.96,31-07-2026
+Metals & Mining,10.16,NATIONALUM,2.54,31-07-2026
+Metals & Mining,10.16,SAIL,1.46,31-07-2026
+Telecommunication,3.88,HFCL,1.98,31-07-2026
+Telecommunication,3.88,IDEA,1.9,31-07-2026
+Fast Moving Consumer Goods,0.3,HONASA,0.3,31-07-2026
+Chemicals,1.44,NAVINFLUOR,1.44,31-07-2026
+Information Technology,0.47,NETWEB,0.47,31-07-2026

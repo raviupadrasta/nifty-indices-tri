@@ -1,0 +1,76 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,11.51,360ONE,1.16,31-07-2026
+Financial Services,11.51,ANGELONE,0.76,31-07-2026
+Financial Services,11.51,GROWW,0.59,31-07-2026
+Financial Services,11.51,HDFCAMC,2.1,31-07-2026
+Financial Services,11.51,ICICIAMC,0.6,31-07-2026
+Financial Services,11.51,MOTILALOFS,0.52,31-07-2026
+Financial Services,11.51,NAM-INDIA,0.82,31-07-2026
+Financial Services,11.51,NUVAMA,0.55,31-07-2026
+Financial Services,11.51,PAYTM,2.23,31-07-2026
+Financial Services,11.51,POLICYBZR,2.18,31-07-2026
+Consumer Services,24.44,ABLBL,0.2,31-07-2026
+Consumer Services,24.44,CARTRADE,0.42,31-07-2026
+Consumer Services,24.44,CHALET,0.21,31-07-2026
+Consumer Services,24.44,DEVYANI,0.18,31-07-2026
+Consumer Services,24.44,DMART,2.29,31-07-2026
+Consumer Services,24.44,EIHOTEL,0.23,31-07-2026
+Consumer Services,24.44,ETERNAL,5.58,31-07-2026
+Consumer Services,24.44,FIRSTCRY,0.17,31-07-2026
+Consumer Services,24.44,INDHOTEL,2.35,31-07-2026
+Consumer Services,24.44,INDIAMART,0.2,31-07-2026
+Consumer Services,24.44,IRCTC,0.54,31-07-2026
+Consumer Services,24.44,ITCHOTELS,0.66,31-07-2026
+Consumer Services,24.44,JUBLFOOD,0.62,31-07-2026
+Consumer Services,24.44,LEMONTREE,0.2,31-07-2026
+Consumer Services,24.44,LENSKART,0.68,31-07-2026
+Consumer Services,24.44,NAUKRI,1.7,31-07-2026
+Consumer Services,24.44,NYKAA,1.65,31-07-2026
+Consumer Services,24.44,PWL,0.24,31-07-2026
+Consumer Services,24.44,SAPPHIRE,0.16,31-07-2026
+Consumer Services,24.44,SWIGGY,1.46,31-07-2026
+Consumer Services,24.44,TRENT,3.62,31-07-2026
+Consumer Services,24.44,VMM,1.08,31-07-2026
+Realty,8.79,ABREL,0.29,31-07-2026
+Realty,8.79,ANANTRAJ,0.38,31-07-2026
+Realty,8.79,BRIGADE,0.42,31-07-2026
+Realty,8.79,DLF,1.67,31-07-2026
+Realty,8.79,GODREJPROP,1.12,31-07-2026
+Realty,8.79,LODHA,1.36,31-07-2026
+Realty,8.79,OBEROIRLTY,0.85,31-07-2026
+Realty,8.79,PHOENIXLTD,1.39,31-07-2026
+Realty,8.79,PRESTIGE,1.07,31-07-2026
+Realty,8.79,SOBHA,0.24,31-07-2026
+Consumer Durables,14.56,AMBER,0.64,31-07-2026
+Consumer Durables,14.56,BATAINDIA,0.17,31-07-2026
+Consumer Durables,14.56,BLUESTARCO,0.86,31-07-2026
+Consumer Durables,14.56,CROMPTON,0.66,31-07-2026
+Consumer Durables,14.56,DIXON,2.3,31-07-2026
+Consumer Durables,14.56,HAVELLS,1.25,31-07-2026
+Consumer Durables,14.56,KALYANKJIL,0.93,31-07-2026
+Consumer Durables,14.56,LGEINDIA,0.6,31-07-2026
+Consumer Durables,14.56,PGEL,0.39,31-07-2026
+Consumer Durables,14.56,TITAN,5.33,31-07-2026
+Consumer Durables,14.56,VOLTAS,1.19,31-07-2026
+Consumer Durables,14.56,WHIRLPOOL,0.24,31-07-2026
+Automobile and Auto Components,26.08,ATHERENERG,0.69,31-07-2026
+Automobile and Auto Components,26.08,BAJAJ-AUTO,3.65,31-07-2026
+Automobile and Auto Components,26.08,EICHERMOT,3.09,31-07-2026
+Automobile and Auto Components,26.08,FORCEMOT,0.25,31-07-2026
+Automobile and Auto Components,26.08,HEROMOTOCO,2.0,31-07-2026
+Automobile and Auto Components,26.08,HYUNDAI,0.89,31-07-2026
+Automobile and Auto Components,26.08,M&M,5.24,31-07-2026
+Automobile and Auto Components,26.08,MARUTI,5.08,31-07-2026
+Automobile and Auto Components,26.08,OLAELEC,0.25,31-07-2026
+Automobile and Auto Components,26.08,TMPV,2.03,31-07-2026
+Automobile and Auto Components,26.08,TVSMOTOR,2.9,31-07-2026
+Telecommunication,7.66,BHARTIARTL,4.96,31-07-2026
+Telecommunication,7.66,BHARTIHEXA,0.48,31-07-2026
+Telecommunication,7.66,IDEA,1.41,31-07-2026
+Telecommunication,7.66,TATACOMM,0.81,31-07-2026
+Services,4.61,INDIGO,4.61,31-07-2026
+Textiles,1.46,KPRMILL,0.46,31-07-2026
+Textiles,1.46,PAGEIND,1.0,31-07-2026
+Media Entertainment & Publication,0.88,PVRINOX,0.32,31-07-2026
+Media Entertainment & Publication,0.88,SAREGAMA,0.15,31-07-2026
+Media Entertainment & Publication,0.88,ZEEL,0.41,31-07-2026

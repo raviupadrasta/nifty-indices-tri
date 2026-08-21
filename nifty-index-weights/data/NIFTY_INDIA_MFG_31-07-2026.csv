@@ -1,0 +1,77 @@
+sector,sector_weight,symbol,weight,as_of_date
+Capital Goods,23.54,ABB,0.9,31-07-2026
+Capital Goods,23.54,AIAENG,0.42,31-07-2026
+Capital Goods,23.54,APLAPOLLO,0.78,31-07-2026
+Capital Goods,23.54,ASHOKLEY,1.12,31-07-2026
+Capital Goods,23.54,ASTRAL,0.42,31-07-2026
+Capital Goods,23.54,BEL,3.26,31-07-2026
+Capital Goods,23.54,BHEL,1.39,31-07-2026
+Capital Goods,23.54,CGPOWER,1.39,31-07-2026
+Capital Goods,23.54,COCHINSHIP,0.28,31-07-2026
+Capital Goods,23.54,CUMMINSIND,1.75,31-07-2026
+Capital Goods,23.54,ENRIN,0.67,31-07-2026
+Capital Goods,23.54,ESCORTS,0.24,31-07-2026
+Capital Goods,23.54,GVT&D,1.26,31-07-2026
+Capital Goods,23.54,HAL,2.07,31-07-2026
+Capital Goods,23.54,HONAUT,0.2,31-07-2026
+Capital Goods,23.54,KAYNES,0.28,31-07-2026
+Capital Goods,23.54,KEI,0.72,31-07-2026
+Capital Goods,23.54,MAZDOCK,0.42,31-07-2026
+Capital Goods,23.54,POLYCAB,1.14,31-07-2026
+Capital Goods,23.54,SIEMENS,0.78,31-07-2026
+Capital Goods,23.54,SUPREMEIND,0.52,31-07-2026
+Capital Goods,23.54,SUZLON,1.37,31-07-2026
+Capital Goods,23.54,TMCV,2.14,31-07-2026
+Healthcare,17.89,ALKEM,0.79,31-07-2026
+Healthcare,17.89,ANTHEM,0.17,31-07-2026
+Healthcare,17.89,AUROPHARMA,1.03,31-07-2026
+Healthcare,17.89,CIPLA,1.95,31-07-2026
+Healthcare,17.89,DIVISLAB,2.4,31-07-2026
+Healthcare,17.89,DRREDDY,1.64,31-07-2026
+Healthcare,17.89,LAURUSLABS,1.66,31-07-2026
+Healthcare,17.89,LUPIN,1.38,31-07-2026
+Healthcare,17.89,SUNPHARMA,4.95,31-07-2026
+Healthcare,17.89,TORNTPHARM,1.26,31-07-2026
+Healthcare,17.89,ZYDUSLIFE,0.66,31-07-2026
+Automobile and Auto Components,26.95,BAJAJ-AUTO,3.0,31-07-2026
+Automobile and Auto Components,26.95,BALKRISIND,0.47,31-07-2026
+Automobile and Auto Components,26.95,BHARATFORG,1.38,31-07-2026
+Automobile and Auto Components,26.95,BOSCHLTD,0.84,31-07-2026
+Automobile and Auto Components,26.95,EICHERMOT,2.54,31-07-2026
+Automobile and Auto Components,26.95,HYUNDAI,0.73,31-07-2026
+Automobile and Auto Components,26.95,M&M,5.39,31-07-2026
+Automobile and Auto Components,26.95,MARUTI,4.36,31-07-2026
+Automobile and Auto Components,26.95,MOTHERSON,1.56,31-07-2026
+Automobile and Auto Components,26.95,MRF,0.63,31-07-2026
+Automobile and Auto Components,26.95,SONACOMS,0.81,31-07-2026
+Automobile and Auto Components,26.95,TIINDIA,0.69,31-07-2026
+Automobile and Auto Components,26.95,TMPV,1.67,31-07-2026
+Automobile and Auto Components,26.95,TVSMOTOR,2.38,31-07-2026
+Automobile and Auto Components,26.95,UNOMINDA,0.5,31-07-2026
+Consumer Durables,3.73,BLUESTARCO,0.51,31-07-2026
+Consumer Durables,3.73,CROMPTON,0.39,31-07-2026
+Consumer Durables,3.73,DIXON,1.37,31-07-2026
+Consumer Durables,3.73,HAVELLS,0.75,31-07-2026
+Consumer Durables,3.73,VOLTAS,0.71,31-07-2026
+Oil Gas & Consumable Fuels,7.8,BPCL,1.52,31-07-2026
+Oil Gas & Consumable Fuels,7.8,CASTROLIND,0.21,31-07-2026
+Oil Gas & Consumable Fuels,7.8,IOC,1.23,31-07-2026
+Oil Gas & Consumable Fuels,7.8,RELIANCE,4.84,31-07-2026
+Chemicals,6.42,COROMANDEL,0.58,31-07-2026
+Chemicals,6.42,HSCL,0.41,31-07-2026
+Chemicals,6.42,LINDEINDIA,0.33,31-07-2026
+Chemicals,6.42,NAVINFLUOR,0.65,31-07-2026
+Chemicals,6.42,PIDILITIND,1.17,31-07-2026
+Chemicals,6.42,PIIND,0.52,31-07-2026
+Chemicals,6.42,SOLARINDS,1.05,31-07-2026
+Chemicals,6.42,SRF,0.89,31-07-2026
+Chemicals,6.42,UPL,0.8,31-07-2026
+Metals & Mining,12.79,HINDALCO,3.31,31-07-2026
+Metals & Mining,12.79,HINDCOPPER,0.38,31-07-2026
+Metals & Mining,12.79,HINDZINC,0.61,31-07-2026
+Metals & Mining,12.79,JINDALSTEL,0.96,31-07-2026
+Metals & Mining,12.79,JSWSTEEL,2.8,31-07-2026
+Metals & Mining,12.79,TATASTEEL,3.68,31-07-2026
+Metals & Mining,12.79,VEDL,1.05,31-07-2026
+Textiles,0.87,KPRMILL,0.27,31-07-2026
+Textiles,0.87,PAGEIND,0.6,31-07-2026

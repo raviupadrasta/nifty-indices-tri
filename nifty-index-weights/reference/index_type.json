@@ -1,0 +1,1490 @@
+[
+  {
+    "Title": "Nifty 50",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY 50",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Next 50",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY NEXT 50",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty 100",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY 100",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty 200",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY 200",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty 500",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY 500",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Midcap 150",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY MIDCAP 150",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Midcap 50",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY MIDCAP 50",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Midcap Select",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY MID SELECT",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Midcap 100",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY MIDCAP 100",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Smallcap 250",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY SMALLCAP 250",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Smallcap 50",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY SMALLCAP 50",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Smlcap 50",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY SMALLCAP 50",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Smallcap 100",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY SMLCAP 100",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty LargeMidcap 250",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY LARGEMID250",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty MidSmallcap 400",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY MIDSML 400",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Auto",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY AUTO",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Bank",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY BANK",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Financial Services",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY FIN SERVICE",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty FMCG",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY FMCG",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty IT",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY IT",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Media",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY MEDIA",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Metal",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY METAL",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Pharma",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY PHARMA",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Private Bank",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY PVT BANK",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty PSU Bank",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY PSU BANK",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Realty",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY REALTY",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty India Corporate Group Index - Aditya Birla Group",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty India Corporate Group Index - Aditya Birla Group",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Commodities",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY COMMODITIES",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty100 Enhanced ESG",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty100 Enh ESG",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty CPSE",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY CPSE",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Energy",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY ENERGY",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty India Consumption",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY CONSUMPTION",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty India Manufacturing",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY INDIA MFG",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Infrastructure",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY INFRA",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty India Corporate Group Index - Mahindra Group",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty India Corporate Group Index - Mahindra Group",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Midcap Liquid 15",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY MID LIQ 15",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty MNC",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY MNC",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty PSE",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY PSE",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Services Sector",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY SERV SECTOR",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Shariah 25",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Shariah 25",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty India Corporate Group Index - Tata Group",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty India Corporate Group Index - Tata Group",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty India Corporate Group Index - Tata Group 25% Cap",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY TATA 25 CAP",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty100 Liquid 15",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY100 LIQ 15",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty50 Shariah",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty50 Shariah",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty500 Shariah",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty500 Shariah",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty SME Emerge",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY SME EMERGE",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty100 Equal Weight",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY100 EQL WGT",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty100 Low Volatility 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY100 LOWVOL30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Alpha 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY ALPHA 50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty 50 Arbitrage",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY 50 ARBITRAGE",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Dividend Opportunities 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY DIV OPPS 50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty High Beta 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty HighBeta 50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Low Volatility 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty Low Vol 50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty500 Value 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty500 Value 50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Alpha Low-Volatility 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY ALPHALOWVOL",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Quality Low-Volatility 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty Qlty LV 30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Alpha Quality Value Low-Volatility 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty AQLV 30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Alpha Quality Low-Volatility 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty AQL 30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "NIFTY100 QUALITY 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY100 QUALTY30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Growth Sectors 15",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY GROWSECT 15",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty50 Dividend Points",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY50 DIV POINT",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "NIFTY50 EQUAL WEIGHT",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY50 EQL WGT",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty50 PR 1x Inverse",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY50 PR 1X INV",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty50 PR 2x Leverage",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY50 PR 2X LEV",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty50 TR 1x Inverse",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY50 TR 1X INV",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty50 TR 2x Leverage",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY50 TR 2X LEV",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty50 Value 20",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY50 VALUE 20",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty 8-13 yr G-Sec",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "NIFTY GS 8 13YR",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty 10 yr Benchmark G-Sec",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "NIFTY GS 10YR",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty 10 yr Benchmark G-Sec (Clean Price)",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "NIFTY GS 10YR CLN",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty 4-8 yr G-Sec Index",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "NIFTY GS 4 8YR",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty 11-15 yr G-Sec Index",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "NIFTY GS 11 15YR",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty 15 yr and above G-Sec Index",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "NIFTY GS 15YRPLUS",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty Composite G-sec Index",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "NIFTY GS COMPSITE",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty 1D RATE Index",
+    "IndexType": "Money Market",
+    "IndexTradingname": "NIFTY 1D RATE Index",
+    "IndextypeShort": "Money Market"
+  },
+  {
+    "Title": "Nifty 10 Year SDL Index",
+    "IndexType": "SDL Indices",
+    "IndexTradingname": "Nifty 10 Year SDL Index",
+    "IndextypeShort": "SDL Indices"
+  },
+  {
+    "Title": "Nifty Fixed Income Aggregate Indices",
+    "IndexType": "Fixed Income",
+    "IndexTradingname": "NIFTY Fixed Income Aggregate Indices",
+    "IndextypeShort": "Fixed Income"
+  },
+  {
+    "Title": "Nifty100 Alpha 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty100 Alpha 30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "NIFTY100 ESG",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY100 ESG",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty200 Quality 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY200 Quality 30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "NIFTY Equity Savings",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY Equity Savings",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Midcap150 Quality 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY M150 QLTY50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty 5yr Benchmark G-Sec Index",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "Nifty 5 yr Benchmark G-Sec Index",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty Bharat Bond Index - April 2023",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty BHARAT Bond Index-April 2023",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Bharat Bond Index - April 2030",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty Bharat Bond -April 2030",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Consumer Durables",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY CONSR DURBL",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Oil & Gas",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY OIL AND GAS",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "NIFTY FINANCIAL SERVICES 25/50",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY FINSRV25 50",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty100 ESG Sector Leaders",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty100ESGSecLdr",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Bharat Bond Index - April 2025",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty BHARAT Bond Index - April 2025",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Bharat Bond Index - April 2031",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty BHARAT Bond Index - April 2031",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty200 Momentum 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTY200MOMENTM30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty CPSE Bond Plus SDL Sep 2024 50:50 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty CPSE Bond Plus SDL Sep 2024 50:50 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Healthcare",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY HEALTHCARE",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty500 Multicap 50:25:25",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY500 MULTICAP",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty AAA Bond Plus SDL Apr 2026 50:50 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty AAA Bond Plus SDL Apr 2026 50:50 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty PSU Bond Plus SDL Apr 2026 50:50 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty PSU Bond Plus SDL Apr 2026 50:50 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty PSU Bond Plus SDL Apr 2027 50:50 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty PSU Bond Plus SDL Apr 2027 50:50 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Dec 2050",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Dec 2050 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Apr 2026 Top 20 Equal Weight Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Apr 2026 Top 20 Equal Weight Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Microcap 250",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY MICROCAP250",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty India Government Fully Accessible Route (FAR) Select 7 Bonds Index (INR)",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "Nifty India Government Fully Accessible Route (FAR) Select 7 Bonds Index (INR)",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty India Government Fully Accessible Route (FAR) Select 7 Bonds Index (USD)",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "Nifty India Government Fully Accessible Route (FAR) Select 7 Bonds Index (USD)",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty SDL Plus PSU Bond Sep 2026 60:40 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus PSU Bond Sep 2026 60:40",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty PSU Bond Plus SDL Sep 2027 40:60 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty PSU Bond Plus SDL Sep 2027 40:60 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Total Market",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "NIFTY TOTAL MKT",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty AAA Bond Plus SDL Apr 2026 70:30 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "NIFTY AAA BOND PLUS SDL APR 2026 7030 INDEX",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty AAA Bond Plus SDL Apr 2031 70:30 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "NIFTY AAA BOND PLUS SDL APR 2031 70:30 INDEX",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Mobility",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Mobility",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Non-Cyclical Consumer",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty NonCyc Cons",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Bharat Bond Index - April 2032",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty BHARAT Bond Index - April 2032",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty India Digital",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY IND DIGITAL",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty CPSE Bond Plus SDL Sep 2026 50:50 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty CPSE Bond Plus SDL Sep 2026 50:50 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Apr 2027 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Apr 2027 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty India Defence",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Ind Defence",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty SDL Apr 2027 Top 12 Equal Weight Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Apr 2027 Top 12 Equal Weight Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Apr 2032 Top 12 Equal Weight Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Apr 2032 Top 12 Equal Weight Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Financial Services Ex-Bank",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty FinSerExBnk",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Housing",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Housing",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Transportation & Logistics",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Trans Logis",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty SDL Plus AAA PSU Bond Jul 2033 60:40 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus AAA PSU Bond Jul 2033 60:40 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Plus G-Sec Jun 2028 30:70 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus G-Sec Jun 2028 30:70 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Plus AAA PSU Bond Dec 2027 60:40 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus AAA PSU Bond Dec 2027 60:40 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Jun 2027 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Jun 2027 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Sep 2027 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Sep 2027 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty AAA CPSE Bond Plus SDL Apr 2027 60:40 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty AAA CPSE Bond Plus SDL Apr 2027 60:40 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Jun 2027 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Jun 2027 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty AQLV 30 Plus 5yr G-Sec 70:30 Index",
+    "IndexType": "Hybrid Indices",
+    "IndexTradingname": "Nifty AQLV 30 Plus 5yr G-Sec 70:30 Index",
+    "IndextypeShort": "Hybrid Indices"
+  },
+  {
+    "Title": "Nifty200 Alpha 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty200 Alpha 30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty MidSmall Financial Services",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty MS Fin Serv",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty SDL Sep 2025 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Sep 2025 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Fixed Income PRC Indices",
+    "IndexType": "Fixed Income",
+    "IndexTradingname": "Nifty Fixed Income PRC Indices",
+    "IndextypeShort": "Fixed Income"
+  },
+  {
+    "Title": "Nifty MidSmall Healthcare",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "NIFTY MIDSML HLTH",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty MidSmall IT & Telecom",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty MS IT Telcm",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty SDL Dec 2028 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Dec 2028 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Midcap150 Momentum 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NIFTYM150MOMNTM50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Dec 2030 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Dec 2030 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty MidSmall India Consumption",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty MS Ind Cons",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "NIFTY AAA PSU BOND PLUS SDL SEP 2026 50:50 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "NIFTY AAA PSU BOND PLUS SDL SEP 2026 50:50 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Dec 2026 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Dec 2026 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Jul 2031 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Jul 2031 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Sep 2026 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Sep 2026 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Plus G-Sec Jun 2028 70:30 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus G-Sec Jun 2028 70:30 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Sep 2027 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Sep 2027 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Jun 2036 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Jun 2036 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Sep 2032 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Sep 2032 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Bharat Bond Index - April 2033",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty BHARAT Bond Index - April 2033",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Sep 2026 V1 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Sep 2026 V1 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Jul 2026 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Jul 2026 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Dec 2029 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Dec 2029 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Dec 2026 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Dec 2026 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Plus G-Sec Sep 2027 50:50 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus G-Sec Sep 2027 50:50 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Plus G-Sec Jun 2029 70:30 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus G-Sec Jun 2029 70:30 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Jul 2033 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Jul 2033 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Oct 2028 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Oct 2028 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty India Sovereign Green Bond Dec 2033 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty India Sovereign Green Bond Dec 2033 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Oct 2026 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Oct 2026 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty India Municipal Bond",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "Nifty India Municipal Bond",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty G-Sec Apr 2029",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Apr 2029",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Plus AAA PSU Bond Apr 2028 75:25",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus AAA PSU Bond Apr 2028 75:25",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec May 2029",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec May 2029",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Smallcap250 Quality 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty Sml250 Q50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty India Sovereign Green Bond Jan 2033",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "Nifty India Sovereign Green Bond Jan 2033",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty SDL Plus G-Sec June 2027 40:60",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Plus G-Sec June 2027 40:60 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty India Sovereign Green Bond Jan 2028",
+    "IndexType": "Government Securities",
+    "IndexTradingname": "Nifty India Sovereign Green Bond Jan 2028",
+    "IndextypeShort": "GSec"
+  },
+  {
+    "Title": "Nifty SDL Jul 2028",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Jul 2028 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty G-Sec Jul 2027",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Jul 2027 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL June 2028",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL June 2028 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty SDL Jul 2033",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Jul 2033 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty REITs & InvITs",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty REITs & InvITs",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Multi Asset - Equity : Debt : Arbitrage : REITs/InvITs (50:20:20:10)",
+    "IndexType": "Hybrid Indices",
+    "IndexTradingname": "NIFTY MULTI ASSET - EQUITY : DEBT : ARBITRAGE : REITS/INVITS (50:20:20:10) INDEX",
+    "IndextypeShort": "Hybrid Indices"
+  },
+  {
+    "Title": "Nifty Multi Asset - Equity : Arbitrage : REITs/InvITs (50:40:10)",
+    "IndexType": "Hybrid Indices",
+    "IndexTradingname": "NIFTY MULTI ASSET - EQUITY : ARBITRAGE : REITS/INVITS (50:40:10) INDEX",
+    "IndextypeShort": "Hybrid Indices"
+  },
+  {
+    "Title": "Nifty 5 Year SDL",
+    "IndexType": "SDL Indices",
+    "IndexTradingname": "Nifty 5 Year SDL Index",
+    "IndextypeShort": "SDL Indices"
+  },
+  {
+    "Title": "Nifty Core Housing",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty CoreHousing",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty 3 Year SDL",
+    "IndexType": "SDL Indices",
+    "IndexTradingname": "Nifty 3 Year SDL Index",
+    "IndextypeShort": "SDL Indices"
+  },
+  {
+    "Title": "Nifty G-Sec Jul 2033",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty G-Sec Jul 2033 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty Smallcap250 Momentum Quality 100",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NiftySml250MQ 100",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty500 Momentum Quality 100",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty500 Momentum Quality 100",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty MidSmallcap400 Momentum Quality 100",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "NiftyMS400 MQ 100",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty500 Multicap India Manufacturing 50:30:20",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY MULTI MFG",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty500 Multicap Infrastructure 50:30:20",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "NIFTY MULTI INFRA",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty AAA Bond Jun 2025 HTM",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty AAA Bond Jun 2025 HTM Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty EV & New Age Automotive",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty EV",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty500 Equal Weight",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty500 EW",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty500 Momentum 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty500Momentm50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty200 Value 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty200 Value 30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty500 LargeMidSmall Equal-Cap Weighted",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "Nifty500 LMS Eql",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty India Tourism",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Ind Tourism",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Top 10 Equal Weight",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty Top 10 EW",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty IPO",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty IPO",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Rural",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Rural",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "GIFT Nifty 50 Futures",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "GIFT Nifty 50 Futures",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty500 Multicap Momentum Quality 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty Multi MQ 50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Capital Markets",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Capital Mkt",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Top 15 Equal Weight",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty Top 15 EW",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Top 20 Equal Weight",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty Top 20 EW",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty India New Age Consumption",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty New Consump",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty India Select 5 Corporate Groups (MAATR)",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Corp MAATR",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty India Railways PSU",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty India Railways PSU",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty500 Quality 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty500 Qlty50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty500 Low Volatility 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty500 LowVol50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty500 Multifactor MQVLv 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty500 MQVLv50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty AAA Financial Services Bond Mar 2028",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty AAA Financial Services Bond Mar 2028 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty AAA Bond Plus G-Sec Mar 2035 30:70",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty AAA Bond Plus G-Sec Mar 2035 30:70 Index",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty India Internet & E-Commerce",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty India Internet & E-Commerce",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Chemicals",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Chemicals",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty500 Flexicap Quality 30",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty500 Flexicap Quality 30",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty India Infrastructure & Logistics",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty India Infrastructure & Logistics",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty Waves",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Waves",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty AAA Financial Services Bond Plus G-Sec Apr 2028 90:10 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty AAA Financial Services Bond Plus G-Sec Apr 2028 90:10",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty AAA Financial Services Bond Plus G-Sec Apr 2027 90:10 Index",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty AAA Financial Services Bond Plus G-Sec Apr 2027 90:10",
+    "IndextypeShort": "Target Maturity Index"
+  },
+  {
+    "Title": "Nifty India Infrastructure & Logistics",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty India Infrastructure & Logistics",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Financial Services 3 to 6 Months Debt Index",
+    "IndexType": "Money Market",
+    "IndexTradingname": "Nifty Financial Services 3 to 6 Months Debt",
+    "IndextypeShort": "Money Market"
+  },
+  {
+    "Title": "Nifty Financial Services 9 to 12 Months Debt Index",
+    "IndexType": "Money Market",
+    "IndexTradingname": "Nifty Financial Services 9 to 12 Months Debt",
+    "IndextypeShort": "Money Market"
+  },
+  {
+    "Title": "Nifty500 Healthcare",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty500 Healthcare",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Total Market Momentum Quality 50",
+    "IndexType": "Strategy Indices",
+    "IndexTradingname": "Nifty Total Market Momentum Quality 50",
+    "IndextypeShort": "st"
+  },
+  {
+    "Title": "Nifty India FPI 150",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "Nifty India FPI 150",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty Conglomerate 50",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Conglomerate 50",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Smallcap 500",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "Nifty Smallcap 500",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty SDL Apr 2031 Top 20 Equal Weight HTM",
+    "IndexType": "Target Maturity Index",
+    "IndexTradingname": "Nifty SDL Apr 2031 Top 20 Equal Weight HTM Index",
+    "IndextypeShort": "Nifty SDL Apr 2031 Top 20 Equal Weight HTM"
+  },
+  {
+    "Title": "Nifty MidSmallcap400 50:50",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "Nifty MidSmallcap400 50:50",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70:30",
+    "IndexType": "Hybrid Indices",
+    "IndexTradingname": "Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70:30",
+    "IndextypeShort": "Hybrid Indices"
+  },
+  {
+    "Title": "Nifty Cement",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Cement",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty REITs & Realty",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty REITs & Realty",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Telecommunications",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Telecommunications",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Retail",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Retail",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Power",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Power",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty NBFC",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty NBFC",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Insurance",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Insurance",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Capital Goods",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Capital Goods",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Commercial & Transport Services",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Commercial & Transport Services",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Construction",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Construction",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Consumer Services",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Consumer Services",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Hospitals",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Hospitals",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Housing Finance",
+    "IndexType": "Sectoral Indices",
+    "IndexTradingname": "Nifty Housing Finance",
+    "IndextypeShort": "sc"
+  },
+  {
+    "Title": "Nifty Midcap150 Plus 8-13 yr G-Sec 70:30",
+    "IndexType": "Hybrid Indices",
+    "IndexTradingname": "Nifty Midcap150 Plus 8-13 yr G-Sec 70:30 Index",
+    "IndextypeShort": "Hybrid Indices"
+  },
+  {
+    "Title": "Nifty200 Momentum 30 Plus 8-13 yr G-Sec 75:25",
+    "IndexType": "Hybrid Indices",
+    "IndexTradingname": "Nifty200 Momentum 30 Plus 8-13 yr G-Sec 75:25 Index",
+    "IndextypeShort": "Hybrid Indices"
+  },
+  {
+    "Title": "Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50",
+    "IndexType": "Hybrid Indices",
+    "IndexTradingname": "Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 Index",
+    "IndextypeShort": "Hybrid Indices"
+  },
+  {
+    "Title": "Nifty Small Finance Banks & Microfinance Institutions",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Small Finance Banks & Microfinance Institutions",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Sugar & Ethanol",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty Sugar & Ethanol",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty500 Ahimsa",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty500 Ahimsa",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty500 Ahimsa Select",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty500 Ahimsa Select",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty REITs & InvITs 90:10",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty REITs & InvITs 90:10",
+    "IndextypeShort": "th"
+  },
+  {
+    "Title": "Nifty Next 100",
+    "IndexType": "Broad Market Indices",
+    "IndexTradingname": "Nifty Next 100",
+    "IndextypeShort": "bm"
+  },
+  {
+    "Title": "Nifty India Defence Equal Weight",
+    "IndexType": "Thematic Indices",
+    "IndexTradingname": "Nifty India Defence Equal Weight",
+    "IndextypeShort": "th"
+  }
+]

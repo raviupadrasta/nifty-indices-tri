@@ -1,0 +1,31 @@
+sector,sector_weight,symbol,weight,as_of_date
+Services,3.49,ADANIPORTS,1.8,31-07-2026
+Services,3.49,INDIGO,1.69,31-07-2026
+Healthcare,2.51,APOLLOHOSP,1.33,31-07-2026
+Healthcare,2.51,MAXHEALTH,1.18,31-07-2026
+Financial Services,61.3,AXISBANK,5.09,31-07-2026
+Financial Services,61.3,BAJAJFINSV,1.69,31-07-2026
+Financial Services,61.3,BAJFINANCE,4.41,31-07-2026
+Financial Services,61.3,BSE,2.15,31-07-2026
+Financial Services,61.3,HDFCBANK,16.51,31-07-2026
+Financial Services,61.3,HDFCLIFE,0.85,31-07-2026
+Financial Services,61.3,ICICIBANK,14.82,31-07-2026
+Financial Services,61.3,INDUSINDBK,0.96,31-07-2026
+Financial Services,61.3,JIOFIN,1.21,31-07-2026
+Financial Services,61.3,KOTAKBANK,4.14,31-07-2026
+Financial Services,61.3,SBILIFE,1.22,31-07-2026
+Financial Services,61.3,SBIN,6.12,31-07-2026
+Financial Services,61.3,SHRIRAMFIN,2.11,31-07-2026
+Telecommunication,8.64,BHARTIARTL,8.64,31-07-2026
+Consumer Services,4.74,DMART,0.91,31-07-2026
+Consumer Services,4.74,ETERNAL,3.15,31-07-2026
+Consumer Services,4.74,NAUKRI,0.68,31-07-2026
+Oil Gas & Consumable Fuels,0.71,GAIL,0.71,31-07-2026
+Information Technology,13.47,HCLTECH,2.05,31-07-2026
+Information Technology,13.47,INFY,5.71,31-07-2026
+Information Technology,13.47,TCS,3.48,31-07-2026
+Information Technology,13.47,TECHM,1.51,31-07-2026
+Information Technology,13.47,WIPRO,0.72,31-07-2026
+Power,5.14,NTPC,2.37,31-07-2026
+Power,5.14,POWERGRID,1.86,31-07-2026
+Power,5.14,TATAPOWER,0.92,31-07-2026

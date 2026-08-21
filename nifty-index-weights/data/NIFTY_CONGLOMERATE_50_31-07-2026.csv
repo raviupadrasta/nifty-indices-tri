@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,17.98,ABCAPITAL,0.9,31-07-2026
+Financial Services,17.98,BAJAJFINSV,3.19,31-07-2026
+Financial Services,17.98,BAJAJHFL,0.26,31-07-2026
+Financial Services,17.98,BAJAJHLDNG,1.33,31-07-2026
+Financial Services,17.98,BAJFINANCE,8.3,31-07-2026
+Financial Services,17.98,CHOLAFIN,2.17,31-07-2026
+Financial Services,17.98,CHOLAHLDNG,0.41,31-07-2026
+Financial Services,17.98,LTF,0.72,31-07-2026
+Financial Services,17.98,M&MFIN,0.69,31-07-2026
+Metals & Mining,15.4,ADANIENT,2.36,31-07-2026
+Metals & Mining,15.4,HINDALCO,3.83,31-07-2026
+Metals & Mining,15.4,JINDALSTEL,1.11,31-07-2026
+Metals & Mining,15.4,JSL,0.62,31-07-2026
+Metals & Mining,15.4,JSWSTEEL,3.23,31-07-2026
+Metals & Mining,15.4,TATASTEEL,4.25,31-07-2026
+Power,4.84,ADANIGREEN,1.26,31-07-2026
+Power,4.84,ADANIPOWER,2.38,31-07-2026
+Power,4.84,CESC,0.28,31-07-2026
+Power,4.84,JSWENERGY,0.92,31-07-2026
+Services,4.16,ADANIPORTS,3.4,31-07-2026
+Services,4.16,FSL,0.26,31-07-2026
+Services,4.16,JSWINFRA,0.51,31-07-2026
+Construction Materials,7.73,AMBUJACEM,0.73,31-07-2026
+Construction Materials,7.73,GRASIM,3.17,31-07-2026
+Construction Materials,7.73,ULTRACEMCO,3.82,31-07-2026
+Automobile and Auto Components,12.69,BAJAJ-AUTO,3.46,31-07-2026
+Automobile and Auto Components,12.69,CEATLTD,0.19,31-07-2026
+Automobile and Auto Components,12.69,M&M,8.23,31-07-2026
+Automobile and Auto Components,12.69,TIINDIA,0.8,31-07-2026
+Capital Goods,4.08,CGPOWER,1.61,31-07-2026
+Capital Goods,4.08,TMCV,2.48,31-07-2026
+Chemicals,0.99,COROMANDEL,0.67,31-07-2026
+Chemicals,0.99,JUBLINGREA,0.17,31-07-2026
+Chemicals,0.99,PCBL,0.15,31-07-2026
+Fast Moving Consumer Goods,1.17,GODREJCP,1.17,31-07-2026
+Diversified,0.15,GODREJIND,0.15,31-07-2026
+Realty,0.77,GODREJPROP,0.77,31-07-2026
+Telecommunication,0.97,IDEA,0.97,31-07-2026
+Consumer Services,3.18,JUBLFOOD,0.47,31-07-2026
+Consumer Services,3.18,TRENT,2.71,31-07-2026
+Healthcare,0.2,JUBLPHARMA,0.2,31-07-2026
+Construction,9.2,KEC,0.17,31-07-2026
+Construction,9.2,LT,9.03,31-07-2026
+Information Technology,10.92,LTM,1.1,31-07-2026
+Information Technology,10.92,LTTS,0.27,31-07-2026
+Information Technology,10.92,TCS,6.55,31-07-2026
+Information Technology,10.92,TECHM,2.85,31-07-2026
+Information Technology,10.92,ZENSARTECH,0.16,31-07-2026
+Media Entertainment & Publication,0.1,SAREGAMA,0.1,31-07-2026
+Consumer Durables,5.46,TITAN,5.46,31-07-2026

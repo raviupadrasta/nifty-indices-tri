@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Capital Goods,19.71,ABB,1.96,31-07-2026
+Capital Goods,19.71,ACE,0.76,31-07-2026
+Capital Goods,19.71,BEL,3.97,31-07-2026
+Capital Goods,19.71,CGPOWER,2.56,31-07-2026
+Capital Goods,19.71,GRSE,0.91,31-07-2026
+Capital Goods,19.71,GVT&D,2.26,31-07-2026
+Capital Goods,19.71,MAZDOCK,1.46,31-07-2026
+Capital Goods,19.71,SCHNEIDER,1.2,31-07-2026
+Capital Goods,19.71,SUZLON,2.89,31-07-2026
+Capital Goods,19.71,TRITURBINE,0.95,31-07-2026
+Capital Goods,19.71,ZENTEC,0.8,31-07-2026
+Financial Services,18.42,ABSLAMC,0.84,31-07-2026
+Financial Services,18.42,ANANDRATHI,2.3,31-07-2026
+Financial Services,18.42,BSE,4.2,31-07-2026
+Financial Services,18.42,CAMS,2.18,31-07-2026
+Financial Services,18.42,CDSL,1.82,31-07-2026
+Financial Services,18.42,HDFCAMC,2.79,31-07-2026
+Financial Services,18.42,IEX,1.48,31-07-2026
+Financial Services,18.42,MOTILALOFS,1.12,31-07-2026
+Financial Services,18.42,NAM-INDIA,1.7,31-07-2026
+Automobile and Auto Components,6.23,BAJAJ-AUTO,3.9,31-07-2026
+Automobile and Auto Components,6.23,FORCEMOT,1.06,31-07-2026
+Automobile and Auto Components,6.23,MSUMI,1.27,31-07-2026
+Consumer Services,2.87,BLS,0.57,31-07-2026
+Consumer Services,2.87,INDIAMART,0.82,31-07-2026
+Consumer Services,2.87,IRCTC,1.48,31-07-2026
+Fast Moving Consumer Goods,12.08,BRITANNIA,3.76,31-07-2026
+Fast Moving Consumer Goods,12.08,COLPAL,3.43,31-07-2026
+Fast Moving Consumer Goods,12.08,EMAMILTD,1.04,31-07-2026
+Fast Moving Consumer Goods,12.08,GILLETTE,1.05,31-07-2026
+Fast Moving Consumer Goods,12.08,MARICO,2.8,31-07-2026
+Oil Gas & Consumable Fuels,4.72,CASTROLIND,1.35,31-07-2026
+Oil Gas & Consumable Fuels,4.72,COALINDIA,3.38,31-07-2026
+Consumer Durables,4.38,DIXON,3.59,31-07-2026
+Consumer Durables,4.38,JSWDULUX,0.78,31-07-2026
+Services,0.97,ECLERX,0.97,31-07-2026
+Information Technology,21.24,INFY,5.3,31-07-2026
+Information Technology,21.24,KPITTECH,0.95,31-07-2026
+Information Technology,21.24,LTM,2.04,31-07-2026
+Information Technology,21.24,LTTS,0.97,31-07-2026
+Information Technology,21.24,OFSS,1.87,31-07-2026
+Information Technology,21.24,PERSISTENT,2.56,31-07-2026
+Information Technology,21.24,SONATSOFTW,0.82,31-07-2026
+Information Technology,21.24,TATAELXSI,1.18,31-07-2026
+Information Technology,21.24,TCS,5.56,31-07-2026
+Healthcare,0.98,NATCOPHARM,0.98,31-07-2026
+Metals & Mining,3.7,NATIONALUM,2.02,31-07-2026
+Metals & Mining,3.7,NMDC,1.68,31-07-2026
+Textiles,2.26,PAGEIND,2.26,31-07-2026
+Chemicals,2.45,SOLARINDS,2.45,31-07-2026

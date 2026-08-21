@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,24.7,360ONE,1.22,31-07-2026
+Financial Services,24.7,ABSLAMC,0.62,31-07-2026
+Financial Services,24.7,ANANDRATHI,2.19,31-07-2026
+Financial Services,24.7,BSE,4.84,31-07-2026
+Financial Services,24.7,CAMS,1.38,31-07-2026
+Financial Services,24.7,HDFCAMC,2.8,31-07-2026
+Financial Services,24.7,KARURVYSYA,1.95,31-07-2026
+Financial Services,24.7,MAHABANK,1.42,31-07-2026
+Financial Services,24.7,MCX,4.52,31-07-2026
+Financial Services,24.7,MOTILALOFS,0.74,31-07-2026
+Financial Services,24.7,MUTHOOTFIN,1.33,31-07-2026
+Financial Services,24.7,NAM-INDIA,1.69,31-07-2026
+Capital Goods,36.3,ABB,2.78,31-07-2026
+Capital Goods,36.3,APARINDS,2.27,31-07-2026
+Capital Goods,36.3,BEL,4.76,31-07-2026
+Capital Goods,36.3,CGPOWER,4.76,31-07-2026
+Capital Goods,36.3,CUMMINSIND,5.06,31-07-2026
+Capital Goods,36.3,DATAPATTNS,1.03,31-07-2026
+Capital Goods,36.3,FINCABLES,0.52,31-07-2026
+Capital Goods,36.3,GPIL,0.33,31-07-2026
+Capital Goods,36.3,GRSE,0.42,31-07-2026
+Capital Goods,36.3,HBLENGINE,0.43,31-07-2026
+Capital Goods,36.3,KEI,2.16,31-07-2026
+Capital Goods,36.3,POLYCAB,4.09,31-07-2026
+Capital Goods,36.3,POWERINDIA,3.76,31-07-2026
+Capital Goods,36.3,SCHNEIDER,0.79,31-07-2026
+Capital Goods,36.3,TRITURBINE,0.51,31-07-2026
+Capital Goods,36.3,USHAMART,0.53,31-07-2026
+Capital Goods,36.3,WELCORP,2.08,31-07-2026
+Healthcare,5.47,ACUTAAS,2.12,31-07-2026
+Healthcare,5.47,AJANTPHARM,1.13,31-07-2026
+Healthcare,5.47,CAPLIPOINT,0.38,31-07-2026
+Healthcare,5.47,LALPATHLAB,0.94,31-07-2026
+Healthcare,5.47,NATCOPHARM,0.45,31-07-2026
+Healthcare,5.47,VIJAYA,0.45,31-07-2026
+Consumer Durables,5.24,ASIANPAINT,5.24,31-07-2026
+Oil Gas & Consumable Fuels,4.85,COALINDIA,4.85,31-07-2026
+Automobile and Auto Components,7.0,EICHERMOT,5.42,31-07-2026
+Automobile and Auto Components,7.0,FORCEMOT,0.49,31-07-2026
+Automobile and Auto Components,7.0,GABRIEL,0.53,31-07-2026
+Automobile and Auto Components,7.0,MSUMI,0.56,31-07-2026
+Services,0.97,GESHIP,0.97,31-07-2026
+Metals & Mining,5.01,GMDCLTD,0.24,31-07-2026
+Metals & Mining,5.01,HINDCOPPER,1.0,31-07-2026
+Metals & Mining,5.01,NATIONALUM,2.06,31-07-2026
+Metals & Mining,5.01,NMDC,1.71,31-07-2026
+Chemicals,4.82,HSCL,1.29,31-07-2026
+Chemicals,4.82,SOLARINDS,3.53,31-07-2026
+Fast Moving Consumer Goods,3.56,MARICO,3.56,31-07-2026
+Information Technology,2.09,OFSS,2.09,31-07-2026

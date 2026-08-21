@@ -1,0 +1,31 @@
+sector,sector_weight,symbol,weight,as_of_date
+Capital Goods,24.79,ABB,1.92,31-07-2026
+Capital Goods,24.79,BHEL,3.44,31-07-2026
+Capital Goods,24.79,CGPOWER,2.96,31-07-2026
+Capital Goods,24.79,CUMMINSIND,4.99,31-07-2026
+Capital Goods,24.79,GVT&D,4.3,31-07-2026
+Capital Goods,24.79,KEI,1.53,31-07-2026
+Capital Goods,24.79,POLYCAB,2.71,31-07-2026
+Capital Goods,24.79,POWERINDIA,2.94,31-07-2026
+Financial Services,21.08,ABCAPITAL,1.37,31-07-2026
+Financial Services,21.08,BSE,4.71,31-07-2026
+Financial Services,21.08,FEDERALBNK,4.09,31-07-2026
+Financial Services,21.08,LTF,1.0,31-07-2026
+Financial Services,21.08,MCX,4.76,31-07-2026
+Financial Services,21.08,SHRIRAMFIN,5.16,31-07-2026
+Power,15.03,ADANIENSOL,3.37,31-07-2026
+Power,15.03,ADANIGREEN,2.16,31-07-2026
+Power,15.03,ADANIPOWER,4.62,31-07-2026
+Power,15.03,NTPC,4.88,31-07-2026
+Automobile and Auto Components,6.5,BHARATFORG,3.52,31-07-2026
+Automobile and Auto Components,6.5,MOTHERSON,2.98,31-07-2026
+Healthcare,10.34,GLENMARK,1.62,31-07-2026
+Healthcare,10.34,LAURUSLABS,5.79,31-07-2026
+Healthcare,10.34,TORNTPHARM,2.93,31-07-2026
+Metals & Mining,18.35,HINDALCO,5.01,31-07-2026
+Metals & Mining,18.35,NATIONALUM,2.63,31-07-2026
+Metals & Mining,18.35,SAIL,1.51,31-07-2026
+Metals & Mining,18.35,TATASTEEL,5.01,31-07-2026
+Metals & Mining,18.35,VEDL,4.19,31-07-2026
+Telecommunication,1.96,IDEA,1.96,31-07-2026
+Chemicals,1.95,SOLARINDS,1.95,31-07-2026

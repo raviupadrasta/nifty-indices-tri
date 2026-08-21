@@ -1,0 +1,31 @@
+sector,sector_weight,symbol,weight,as_of_date
+Power,10.5,ADANIGREEN,1.21,31-07-2026
+Power,10.5,NTPC,4.29,31-07-2026
+Power,10.5,POWERGRID,3.35,31-07-2026
+Power,10.5,TATAPOWER,1.65,31-07-2026
+Services,6.31,ADANIPORTS,3.26,31-07-2026
+Services,6.31,INDIGO,3.05,31-07-2026
+Construction Materials,8.33,AMBUJACEM,0.7,31-07-2026
+Construction Materials,8.33,GRASIM,3.05,31-07-2026
+Construction Materials,8.33,SHREECEM,0.91,31-07-2026
+Construction Materials,8.33,ULTRACEMCO,3.67,31-07-2026
+Healthcare,5.81,APOLLOHOSP,2.4,31-07-2026
+Healthcare,5.81,FORTIS,1.28,31-07-2026
+Healthcare,5.81,MAXHEALTH,2.13,31-07-2026
+Capital Goods,6.24,ASHOKLEY,1.24,31-07-2026
+Capital Goods,6.24,CGPOWER,1.54,31-07-2026
+Capital Goods,6.24,CUMMINSIND,1.94,31-07-2026
+Capital Goods,6.24,SUZLON,1.52,31-07-2026
+Automobile and Auto Components,3.26,BHARATFORG,1.53,31-07-2026
+Automobile and Auto Components,3.26,MOTHERSON,1.74,31-07-2026
+Telecommunication,16.94,BHARTIARTL,15.62,31-07-2026
+Telecommunication,16.94,INDUSTOWER,1.31,31-07-2026
+Oil Gas & Consumable Fuels,27.8,BPCL,1.69,31-07-2026
+Oil Gas & Consumable Fuels,27.8,GAIL,1.28,31-07-2026
+Oil Gas & Consumable Fuels,27.8,HINDPETRO,0.98,31-07-2026
+Oil Gas & Consumable Fuels,27.8,IOC,1.36,31-07-2026
+Oil Gas & Consumable Fuels,27.8,ONGC,2.45,31-07-2026
+Oil Gas & Consumable Fuels,27.8,RELIANCE,20.04,31-07-2026
+Realty,1.1,DLF,1.1,31-07-2026
+Consumer Services,1.69,INDHOTEL,1.69,31-07-2026
+Construction,12.01,LT,12.01,31-07-2026

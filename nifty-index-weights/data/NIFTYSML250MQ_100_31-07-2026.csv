@@ -1,0 +1,101 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,23.64,ABSLAMC,1.08,31-07-2026
+Financial Services,23.64,ANANDRATHI,3.0,31-07-2026
+Financial Services,23.64,ANGELONE,2.02,31-07-2026
+Financial Services,23.64,CAMS,2.42,31-07-2026
+Financial Services,23.64,CDSL,2.14,31-07-2026
+Financial Services,23.64,CGCL,0.96,31-07-2026
+Financial Services,23.64,CHOICEIN,0.55,31-07-2026
+Financial Services,23.64,CREDITACC,0.73,31-07-2026
+Financial Services,23.64,CUB,1.64,31-07-2026
+Financial Services,23.64,HOMEFIRST,0.85,31-07-2026
+Financial Services,23.64,IEX,1.11,31-07-2026
+Financial Services,23.64,J&KBANK,0.92,31-07-2026
+Financial Services,23.64,KARURVYSYA,3.42,31-07-2026
+Financial Services,23.64,MANAPPURAM,1.65,31-07-2026
+Financial Services,23.64,PNBHOUSING,1.15,31-07-2026
+Capital Goods,16.7,ACE,0.42,31-07-2026
+Capital Goods,16.7,BEML,0.42,31-07-2026
+Capital Goods,16.7,DATAPATTNS,1.81,31-07-2026
+Capital Goods,16.7,ELECON,0.32,31-07-2026
+Capital Goods,16.7,ELGIEQUIP,1.3,31-07-2026
+Capital Goods,16.7,FINCABLES,0.91,31-07-2026
+Capital Goods,16.7,GPIL,0.58,31-07-2026
+Capital Goods,16.7,GRAPHITE,0.32,31-07-2026
+Capital Goods,16.7,GRSE,0.74,31-07-2026
+Capital Goods,16.7,HBLENGINE,0.76,31-07-2026
+Capital Goods,16.7,JINDALSAW,0.59,31-07-2026
+Capital Goods,16.7,JWL,0.24,31-07-2026
+Capital Goods,16.7,SCHNEIDER,1.38,31-07-2026
+Capital Goods,16.7,SHYAMMETL,0.66,31-07-2026
+Capital Goods,16.7,TARIL,0.27,31-07-2026
+Capital Goods,16.7,TITAGARH,0.46,31-07-2026
+Capital Goods,16.7,TRITURBINE,0.89,31-07-2026
+Capital Goods,16.7,USHAMART,0.94,31-07-2026
+Capital Goods,16.7,WELCORP,2.95,31-07-2026
+Capital Goods,16.7,ZENTEC,0.75,31-07-2026
+Healthcare,14.29,ACUTAAS,2.7,31-07-2026
+Healthcare,14.29,CAPLIPOINT,0.67,31-07-2026
+Healthcare,14.29,GLAND,2.61,31-07-2026
+Healthcare,14.29,GRANULES,1.67,31-07-2026
+Healthcare,14.29,LALPATHLAB,1.65,31-07-2026
+Healthcare,14.29,NATCOPHARM,0.79,31-07-2026
+Healthcare,14.29,NEULANDLAB,1.87,31-07-2026
+Healthcare,14.29,NH,1.05,31-07-2026
+Healthcare,14.29,POLYMED,0.49,31-07-2026
+Healthcare,14.29,VIJAYA,0.79,31-07-2026
+Oil Gas & Consumable Fuels,4.1,AEGISLOG,2.02,31-07-2026
+Oil Gas & Consumable Fuels,4.1,CASTROLIND,0.92,31-07-2026
+Oil Gas & Consumable Fuels,4.1,CHENNPETRO,0.65,31-07-2026
+Oil Gas & Consumable Fuels,4.1,MGL,0.51,31-07-2026
+Information Technology,3.27,AFFLE,0.67,31-07-2026
+Information Technology,3.27,BSOFT,0.34,31-07-2026
+Information Technology,3.27,CYIENT,0.45,31-07-2026
+Information Technology,3.27,INTELLECT,0.42,31-07-2026
+Information Technology,3.27,LATENTVIEW,0.15,31-07-2026
+Information Technology,3.27,MAPMYINDIA,0.14,31-07-2026
+Information Technology,3.27,NEWGEN,0.26,31-07-2026
+Information Technology,3.27,SONATSOFTW,0.47,31-07-2026
+Information Technology,3.27,ZENSARTECH,0.37,31-07-2026
+Consumer Durables,4.75,AMBER,1.24,31-07-2026
+Consumer Durables,4.75,CROMPTON,1.27,31-07-2026
+Consumer Durables,4.75,JSWDULUX,0.5,31-07-2026
+Consumer Durables,4.75,KAJARIACER,1.04,31-07-2026
+Consumer Durables,4.75,PGEL,0.71,31-07-2026
+Realty,0.68,ANANTRAJ,0.68,31-07-2026
+Automobile and Auto Components,9.05,ARE&M,0.79,31-07-2026
+Automobile and Auto Components,9.05,CEATLTD,0.44,31-07-2026
+Automobile and Auto Components,9.05,FORCEMOT,0.86,31-07-2026
+Automobile and Auto Components,9.05,GABRIEL,0.93,31-07-2026
+Automobile and Auto Components,9.05,MSUMI,0.98,31-07-2026
+Automobile and Auto Components,9.05,OLECTRA,0.54,31-07-2026
+Automobile and Auto Components,9.05,SONACOMS,3.47,31-07-2026
+Automobile and Auto Components,9.05,ZFCVINDIA,1.04,31-07-2026
+Consumer Services,0.71,BLS,0.24,31-07-2026
+Consumer Services,0.71,INDIAMART,0.47,31-07-2026
+Fast Moving Consumer Goods,3.1,CCL,0.85,31-07-2026
+Fast Moving Consumer Goods,3.1,EMAMILTD,0.67,31-07-2026
+Fast Moving Consumer Goods,3.1,GILLETTE,0.6,31-07-2026
+Fast Moving Consumer Goods,3.1,LTFOODS,0.38,31-07-2026
+Fast Moving Consumer Goods,3.1,ZYDUSWELL,0.6,31-07-2026
+Construction,2.35,CEMPRO,0.88,31-07-2026
+Construction,2.35,ENGINERSIN,0.59,31-07-2026
+Construction,2.35,NCC,0.34,31-07-2026
+Construction,2.35,RITES,0.2,31-07-2026
+Construction,2.35,TECHNOE,0.35,31-07-2026
+Chemicals,5.78,CHAMBLFERT,0.51,31-07-2026
+Chemicals,5.78,HSCL,2.26,31-07-2026
+Chemicals,5.78,NAVINFLUOR,3.0,31-07-2026
+Services,3.63,ECLERX,0.56,31-07-2026
+Services,3.63,GESHIP,1.71,31-07-2026
+Services,3.63,REDINGTON,1.36,31-07-2026
+Metals & Mining,2.91,GMDCLTD,0.42,31-07-2026
+Metals & Mining,2.91,GRAVITA,0.4,31-07-2026
+Metals & Mining,2.91,HINDCOPPER,1.75,31-07-2026
+Metals & Mining,2.91,SARDAEN,0.35,31-07-2026
+Telecommunication,2.92,HFCL,2.74,31-07-2026
+Telecommunication,2.92,RAILTEL,0.18,31-07-2026
+Power,0.64,NAVA,0.64,31-07-2026
+Media Entertainment & Publication,0.4,SAREGAMA,0.4,31-07-2026
+Textiles,1.08,VTL,0.68,31-07-2026
+Textiles,1.08,WELSPUNLIV,0.41,31-07-2026

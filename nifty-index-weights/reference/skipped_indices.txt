@@ -1,0 +1,131 @@
+# Indices with no composition data at the SectorialIndexData endpoint.
+# 103 of 245 total (after trying IndexTradingname, Title, Title with '%' stripped,
+# and hand-verified NAME_OVERRIDES entries in the fetch script).
+# Debt/GSec/SDL/TargetMaturity/MoneyMarket/FixedIncome/Hybrid indices are skipped
+# entirely -- this endpoint has no stock composition to publish for them.
+# A handful of derivative-based equity indices (arbitrage, leveraged/inverse,
+# futures-tracking) are skipped for the same reason -- no stock composition.
+
+## Target Maturity Index (65)
+Nifty BHARAT Bond Index-April 2023
+Nifty Bharat Bond -April 2030
+Nifty BHARAT Bond Index - April 2025
+Nifty BHARAT Bond Index - April 2031
+Nifty CPSE Bond Plus SDL Sep 2024 50:50 Index
+Nifty AAA Bond Plus SDL Apr 2026 50:50 Index
+Nifty PSU Bond Plus SDL Apr 2026 50:50 Index
+Nifty PSU Bond Plus SDL Apr 2027 50:50 Index
+Nifty G-Sec Dec 2050 Index
+Nifty SDL Apr 2026 Top 20 Equal Weight Index
+Nifty SDL Plus PSU Bond Sep 2026 60:40
+Nifty PSU Bond Plus SDL Sep 2027 40:60 Index
+NIFTY AAA BOND PLUS SDL APR 2026 7030 INDEX
+NIFTY AAA BOND PLUS SDL APR 2031 70:30 INDEX
+Nifty BHARAT Bond Index - April 2032
+Nifty CPSE Bond Plus SDL Sep 2026 50:50 Index
+Nifty SDL Apr 2027 Index
+Nifty SDL Apr 2027 Top 12 Equal Weight Index
+Nifty SDL Apr 2032 Top 12 Equal Weight Index
+Nifty SDL Plus AAA PSU Bond Jul 2033 60:40 Index
+Nifty SDL Plus G-Sec Jun 2028 30:70 Index
+Nifty SDL Plus AAA PSU Bond Dec 2027 60:40 Index
+Nifty SDL Jun 2027 Index
+Nifty SDL Sep 2027 Index
+Nifty AAA CPSE Bond Plus SDL Apr 2027 60:40 Index
+Nifty G-Sec Jun 2027 Index
+Nifty SDL Sep 2025 Index
+Nifty SDL Dec 2028 Index
+Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index
+Nifty G-Sec Dec 2030 Index
+Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index
+NIFTY AAA PSU BOND PLUS SDL SEP 2026 50:50 Index
+Nifty G-Sec Dec 2026 Index
+Nifty G-Sec Jul 2031 Index
+Nifty SDL Sep 2026 Index
+Nifty SDL Plus G-Sec Jun 2028 70:30 Index
+Nifty G-Sec Sep 2027 Index
+Nifty G-Sec Jun 2036 Index
+Nifty G-Sec Sep 2032 Index
+Nifty BHARAT Bond Index - April 2033
+Nifty SDL Sep 2026 V1 Index
+Nifty SDL Jul 2026 Index
+Nifty G-Sec Dec 2029 Index
+Nifty SDL Dec 2026 Index
+Nifty SDL Plus G-Sec Sep 2027 50:50 Index
+Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index
+Nifty SDL Plus G-Sec Jun 2029 70:30 Index
+Nifty SDL Jul 2033 Index
+Nifty G-Sec Oct 2028 Index
+Nifty India Sovereign Green Bond Dec 2033 Index
+Nifty SDL Oct 2026 Index
+Nifty G-Sec Apr 2029
+Nifty SDL Plus AAA PSU Bond Apr 2028 75:25
+Nifty G-Sec May 2029
+Nifty SDL Plus G-Sec June 2027 40:60 Index
+Nifty SDL Jul 2028 Index
+Nifty G-Sec Jul 2027 Index
+Nifty SDL June 2028 Index
+Nifty G-Sec Jul 2033 Index
+Nifty AAA Bond Jun 2025 HTM Index
+Nifty AAA Financial Services Bond Mar 2028 Index
+Nifty AAA Bond Plus G-Sec Mar 2035 30:70 Index
+Nifty AAA Financial Services Bond Plus G-Sec Apr 2028 90:10
+Nifty AAA Financial Services Bond Plus G-Sec Apr 2027 90:10
+Nifty SDL Apr 2031 Top 20 Equal Weight HTM Index
+
+## Government Securities (12)
+NIFTY GS 8 13YR
+NIFTY GS 10YR
+NIFTY GS 10YR CLN
+NIFTY GS 4 8YR
+NIFTY GS 11 15YR
+NIFTY GS 15YRPLUS
+NIFTY GS COMPSITE
+Nifty 5 yr Benchmark G-Sec Index
+Nifty India Government Fully Accessible Route (FAR) Select 7 Bonds Index (INR)
+Nifty India Government Fully Accessible Route (FAR) Select 7 Bonds Index (USD)
+Nifty India Sovereign Green Bond Jan 2033
+Nifty India Sovereign Green Bond Jan 2028
+
+## Strategy Indices (9)
+NIFTY 50 ARBITRAGE
+NIFTY50 DIV POINT
+NIFTY50 PR 1X INV
+NIFTY50 PR 2X LEV
+NIFTY50 TR 1X INV
+NIFTY50 TR 2X LEV
+NIFTY Equity Savings
+Nifty500 Momentum Quality 100
+GIFT Nifty 50 Futures
+
+## Hybrid Indices (5)
+Nifty AQLV 30 Plus 5yr G-Sec 70:30 Index
+Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70:30
+Nifty Midcap150 Plus 8-13 yr G-Sec 70:30 Index
+Nifty200 Momentum 30 Plus 8-13 yr G-Sec 75:25 Index
+Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 Index
+
+## Thematic Indices (1)
+Nifty500 Ahimsa Select
+
+## Money Market (3)
+NIFTY 1D RATE Index
+Nifty Financial Services 3 to 6 Months Debt
+Nifty Financial Services 9 to 12 Months Debt
+
+## SDL Indices (3)
+Nifty 10 Year SDL Index
+Nifty 5 Year SDL Index
+Nifty 3 Year SDL Index
+
+## Fixed Income (2)
+NIFTY Fixed Income Aggregate Indices
+Nifty Fixed Income PRC Indices
+
+## Hybrid Indices, continued (2)
+NIFTY MULTI ASSET - EQUITY : DEBT : ARBITRAGE : REITS/INVITS (50:20:20:10) INDEX
+NIFTY MULTI ASSET - EQUITY : ARBITRAGE : REITS/INVITS (50:40:10) INDEX
+
+## Broad Market Indices (1)
+Nifty India Municipal Bond
+

@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Financial Services,28.65,ABSLAMC,1.99,31-07-2026
+Financial Services,28.65,ANANDRATHI,4.94,31-07-2026
+Financial Services,28.65,ANGELONE,2.03,31-07-2026
+Financial Services,28.65,APTUS,1.74,31-07-2026
+Financial Services,28.65,CAMS,5.15,31-07-2026
+Financial Services,28.65,CDSL,3.98,31-07-2026
+Financial Services,28.65,HOMEFIRST,1.79,31-07-2026
+Financial Services,28.65,IEX,3.66,31-07-2026
+Financial Services,28.65,KARURVYSYA,3.38,31-07-2026
+Capital Goods,8.4,ACE,1.74,31-07-2026
+Capital Goods,8.4,ELGIEQUIP,1.97,31-07-2026
+Capital Goods,8.4,FINCABLES,1.35,31-07-2026
+Capital Goods,8.4,GPIL,1.14,31-07-2026
+Capital Goods,8.4,TRITURBINE,2.19,31-07-2026
+Information Technology,9.42,AFFLE,1.82,31-07-2026
+Information Technology,9.42,BSOFT,1.34,31-07-2026
+Information Technology,9.42,CYIENT,1.34,31-07-2026
+Information Technology,9.42,LATENTVIEW,0.83,31-07-2026
+Information Technology,9.42,MAPMYINDIA,0.95,31-07-2026
+Information Technology,9.42,SONATSOFTW,1.69,31-07-2026
+Information Technology,9.42,ZENSARTECH,1.45,31-07-2026
+Automobile and Auto Components,10.29,ARE&M,1.8,31-07-2026
+Automobile and Auto Components,10.29,MSUMI,2.82,31-07-2026
+Automobile and Auto Components,10.29,SONACOMS,3.76,31-07-2026
+Automobile and Auto Components,10.29,ZFCVINDIA,1.92,31-07-2026
+Consumer Services,3.1,BLS,1.27,31-07-2026
+Consumer Services,3.1,INDIAMART,1.83,31-07-2026
+Oil Gas & Consumable Fuels,6.66,CASTROLIND,3.2,31-07-2026
+Oil Gas & Consumable Fuels,6.66,IGL,1.87,31-07-2026
+Oil Gas & Consumable Fuels,6.66,MGL,1.59,31-07-2026
+Chemicals,5.21,CHAMBLFERT,1.62,31-07-2026
+Chemicals,5.21,CLEAN,1.24,31-07-2026
+Chemicals,5.21,HSCL,2.34,31-07-2026
+Consumer Durables,5.91,CROMPTON,2.32,31-07-2026
+Consumer Durables,5.91,JSWDULUX,1.89,31-07-2026
+Consumer Durables,5.91,KAJARIACER,1.7,31-07-2026
+Services,1.87,ECLERX,1.87,31-07-2026
+Fast Moving Consumer Goods,6.01,EMAMILTD,2.31,31-07-2026
+Fast Moving Consumer Goods,6.01,GILLETTE,2.43,31-07-2026
+Fast Moving Consumer Goods,6.01,LTFOODS,1.27,31-07-2026
+Construction,3.67,ENGINERSIN,1.56,31-07-2026
+Construction,3.67,RITES,0.96,31-07-2026
+Construction,3.67,TECHNOE,1.15,31-07-2026
+Metals & Mining,1.31,GRAVITA,1.31,31-07-2026
+Healthcare,6.03,LALPATHLAB,2.87,31-07-2026
+Healthcare,6.03,NATCOPHARM,1.61,31-07-2026
+Healthcare,6.03,POLYMED,1.55,31-07-2026
+Telecommunication,0.96,RAILTEL,0.96,31-07-2026
+Media Entertainment & Publication,2.52,SAREGAMA,1.14,31-07-2026
+Media Entertainment & Publication,2.52,SUNTV,1.38,31-07-2026

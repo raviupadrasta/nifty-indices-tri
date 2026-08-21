@@ -1,0 +1,51 @@
+sector,sector_weight,symbol,weight,as_of_date
+Healthcare,14.99,APOLLOHOSP,2.24,31-07-2026
+Healthcare,14.99,CIPLA,2.08,31-07-2026
+Healthcare,14.99,DIVISLAB,2.31,31-07-2026
+Healthcare,14.99,DRREDDY,1.58,31-07-2026
+Healthcare,14.99,LUPIN,2.12,31-07-2026
+Healthcare,14.99,SUNPHARMA,2.29,31-07-2026
+Healthcare,14.99,TORNTPHARM,2.37,31-07-2026
+Consumer Durables,3.9,ASIANPAINT,1.83,31-07-2026
+Consumer Durables,3.9,TITAN,2.07,31-07-2026
+Financial Services,19.74,AXISBANK,1.62,31-07-2026
+Financial Services,19.74,BAJAJFINSV,2.17,31-07-2026
+Financial Services,19.74,HDFCBANK,2.07,31-07-2026
+Financial Services,19.74,HDFCLIFE,1.87,31-07-2026
+Financial Services,19.74,ICICIBANK,2.43,31-07-2026
+Financial Services,19.74,ICICIGI,1.73,31-07-2026
+Financial Services,19.74,KOTAKBANK,1.91,31-07-2026
+Financial Services,19.74,SBICARD,1.78,31-07-2026
+Financial Services,19.74,SBILIFE,2.31,31-07-2026
+Financial Services,19.74,SBIN,1.86,31-07-2026
+Automobile and Auto Components,7.72,BAJAJ-AUTO,2.27,31-07-2026
+Automobile and Auto Components,7.72,HEROMOTOCO,1.73,31-07-2026
+Automobile and Auto Components,7.72,MARUTI,1.96,31-07-2026
+Automobile and Auto Components,7.72,MRF,1.77,31-07-2026
+Telecommunication,2.27,BHARTIARTL,2.27,31-07-2026
+Fast Moving Consumer Goods,20.64,BRITANNIA,2.13,31-07-2026
+Fast Moving Consumer Goods,20.64,COLPAL,1.96,31-07-2026
+Fast Moving Consumer Goods,20.64,DABUR,1.87,31-07-2026
+Fast Moving Consumer Goods,20.64,GODREJCP,1.84,31-07-2026
+Fast Moving Consumer Goods,20.64,HINDUNILVR,2.08,31-07-2026
+Fast Moving Consumer Goods,20.64,ITC,2.09,31-07-2026
+Fast Moving Consumer Goods,20.64,MARICO,2.56,31-07-2026
+Fast Moving Consumer Goods,20.64,NESTLEIND,2.27,31-07-2026
+Fast Moving Consumer Goods,20.64,TATACONSUM,1.87,31-07-2026
+Fast Moving Consumer Goods,20.64,UNITDSPR,1.98,31-07-2026
+Consumer Services,3.48,DMART,1.56,31-07-2026
+Consumer Services,3.48,IRCTC,1.92,31-07-2026
+Construction Materials,3.86,GRASIM,1.9,31-07-2026
+Construction Materials,3.86,ULTRACEMCO,1.95,31-07-2026
+Information Technology,9.72,HCLTECH,2.02,31-07-2026
+Information Technology,9.72,INFY,1.76,31-07-2026
+Information Technology,9.72,TCS,2.16,31-07-2026
+Information Technology,9.72,TECHM,1.89,31-07-2026
+Information Technology,9.72,WIPRO,1.89,31-07-2026
+Metals & Mining,1.87,JSWSTEEL,1.87,31-07-2026
+Construction,1.61,LT,1.61,31-07-2026
+Power,4.23,NTPC,2.25,31-07-2026
+Power,4.23,POWERGRID,1.99,31-07-2026
+Textiles,1.8,PAGEIND,1.8,31-07-2026
+Chemicals,2.13,PIDILITIND,2.13,31-07-2026
+Oil Gas & Consumable Fuels,2.04,RELIANCE,2.04,31-07-2026

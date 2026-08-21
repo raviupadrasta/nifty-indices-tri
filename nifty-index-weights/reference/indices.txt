@@ -1,0 +1,10 @@
+# One index trading name per line (case-insensitive, matched against
+# IndexTradingname in reference/index_type.json). Lines starting with #
+# are ignored. Run:
+#   python scripts/fetch_index_weights.py --file reference/indices.txt
+NIFTY 50
+NIFTY NEXT 100
+NIFTY 100
+NIFTY 500
+NIFTY MIDCAP 150
+NIFTY SMALLCAP 250
